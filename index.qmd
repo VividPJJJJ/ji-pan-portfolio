@@ -1,0 +1,90 @@
+---
+title: "Ji Pan"
+toc: false
+page-layout: full
+css: styles.css
+---
+::: {.hero}
+
+# Ji Pan
+
+## Business & Data Analyst
+
+Financial Controlling · Supply Chain Analytics · Digital Transformation
+
+I combine more than five years of experience in financial controlling with hands-on work in supply-chain data analysis, digital process transformation, and business intelligence.
+
+[View Experience](experience.qmd){.btn .btn-primary .btn-lg}
+
+[About Me](about.qmd){.btn .btn-outline-primary .btn-lg}
+
+[Download CV](assets/cv/Ji_Pan_CV.pdf){.btn .btn-outline-secondary .btn-lg target="_blank"}
+
+:::
+
+## Professional Profile
+
+I am currently pursuing a master's degree in **Management and Digital Technology at the Technical University of Munich** while working in supply-chain strategy and data analytics at **Mercedes-Benz Group AG**.
+
+My background combines:
+
+::: {.skill-list}
+<span class="skill-tag">Business Analytics</span>
+<span class="skill-tag">Financial Controlling</span>
+<span class="skill-tag">Supply Chain Analytics</span>
+<span class="skill-tag">Power BI</span>
+<span class="skill-tag">Python</span>
+<span class="skill-tag">SQL</span>
+<span class="skill-tag">Process Digitalization</span>
+<span class="skill-tag">Cloud & Data Tools</span>
+:::
+
+## Selected Impact
+
+```{=html}
+<div class="metric-grid">
+  <div class="metric-card">
+    <div class="metric-value">8</div>
+    <div class="metric-label">Countries covered in CKD production analysis</div>
+  </div>
+
+  <div class="metric-card">
+    <div class="metric-value">10,000+</div>
+    <div class="metric-label">KPI records processed per month</div>
+  </div>
+
+  <div class="metric-card">
+    <div class="metric-value">50%+</div>
+    <div class="metric-label">Manual processing effort reduced</div>
+  </div>
+
+  <div class="metric-card">
+    <div class="metric-value">10,000+</div>
+    <div class="metric-label">Small-business clients served</div>
+  </div>
+</div>
+```
+## What I Do
+
+### Data Analytics
+
+I clean, validate, aggregate, and analyse operational and financial datasets using Python, Pandas, Jupyter Notebook, SQL, Excel, and Power Query.
+
+### Business Intelligence
+
+I build Power BI dashboards that integrate multiple business dimensions and improve reporting visibility for management.
+
+### Financial & Process Transformation
+
+I have led financial-system implementation and workflow digitalisation projects covering budgeting, reimbursement, accounting, reconciliation, and management reporting.
+
+## Current Focus
+
+I am particularly interested in roles at the intersection of:
+
+- Data and business analytics
+- Financial analytics and controlling
+- Supply-chain and operations analytics
+- Business intelligence
+- Cloud FinOps and cost optimisation
+- AI-enabled business processes

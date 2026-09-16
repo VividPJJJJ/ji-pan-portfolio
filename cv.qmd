@@ -1,0 +1,30 @@
+---
+title: "Curriculum Vitae"
+description: "Downloadable CV and concise professional summary"
+toc: true
+---
+
+[Download CV as PDF](assets/cv/Ji_Pan_CV.pdf){.btn .btn-primary target="_blank"}
+
+## Professional Summary
+
+Business and data analyst with more than five years of experience across financial controlling, digital process transformation, management reporting, and supply-chain analytics.
+
+Currently pursuing a master's degree in Management and Digital Technology at the Technical University of Munich and working at Mercedes-Benz Group AG in supply-chain strategy and data analytics.
+
+## Key Expertise
+
+- Python, SQL, Pandas, Jupyter Notebook
+- Power BI, DAX, Excel, VBA, Power Query
+- Financial controlling and forecasting
+- Supply-chain and production KPI analysis
+- Requirements analysis and process modelling
+- Financial-system implementation
+- Business intelligence and management reporting
+
+## Contact
+
+- **Email:** [panj5487666@gmail.com](mailto:panj5487666@gmail.com)
+- **Location:** Heilbronn, Germany
+
+For full details, please download the PDF version above.

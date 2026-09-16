@@ -1,0 +1,113 @@
+:root {
+  --text-color: #1f2937;
+  --muted-color: #64748b;
+  --border-color: #e5e7eb;
+  --surface-color: #f8fafc;
+  --accent-color: #1f4f6f;
+}
+
+body {
+  color: var(--text-color);
+  line-height: 1.7;
+}
+
+h1, h2, h3 {
+  letter-spacing: -0.025em;
+}
+
+.navbar {
+  border-bottom: 1px solid var(--border-color);
+}
+
+.navbar-brand {
+  font-weight: 700;
+}
+
+.hero {
+  padding: 5rem 0 4rem;
+}
+
+.hero h1 {
+  font-size: clamp(3.2rem, 7vw, 5.8rem);
+  line-height: 1;
+  font-weight: 750;
+  margin-bottom: 1rem;
+}
+
+.hero h2 {
+  color: var(--muted-color);
+  font-size: 1.8rem;
+  font-weight: 450;
+  margin-bottom: 1rem;
+}
+
+.hero p {
+  max-width: 800px;
+  font-size: 1.2rem;
+  color: var(--muted-color);
+}
+
+.btn {
+  margin-right: 0.5rem;
+  margin-bottom: 0.5rem;
+}
+
+.skill-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.65rem;
+  margin: 1.5rem 0 2.5rem;
+}
+
+.skill-tag {
+  background: var(--surface-color);
+  border: 1px solid var(--border-color);
+  border-radius: 999px;
+  padding: 0.5rem 0.9rem;
+  font-size: 0.92rem;
+}
+
+.metric-grid {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 1rem;
+  margin: 1.5rem 0 3rem;
+}
+
+.metric-card {
+  padding: 1.4rem;
+  border: 1px solid var(--border-color);
+  border-radius: 16px;
+  background: white;
+}
+
+.metric-value {
+  font-size: 2rem;
+  font-weight: 750;
+  color: var(--accent-color);
+}
+
+.metric-label {
+  margin-top: 0.35rem;
+  color: var(--muted-color);
+}
+
+table {
+  font-size: 0.96rem;
+}
+
+@media (max-width: 900px) {
+  .metric-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  .hero {
+    padding-top: 3rem;
+  }
+}
+
+@media (max-width: 600px) {
+  .metric-grid {
+    grid-template-columns: 1fr;
+  }
+}

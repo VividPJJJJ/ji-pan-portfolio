@@ -1,0 +1,149 @@
+[
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "Download CV as PDF"
+  },
+  {
+    "objectID": "cv.html#professional-summary",
+    "href": "cv.html#professional-summary",
+    "title": "Curriculum Vitae",
+    "section": "Professional Summary",
+    "text": "Professional Summary\nBusiness and data analyst with more than five years of experience across financial controlling, digital process transformation, management reporting, and supply-chain analytics.\nCurrently pursuing a master’s degree in Management and Digital Technology at the Technical University of Munich and working at Mercedes-Benz Group AG in supply-chain strategy and data analytics."
+  },
+  {
+    "objectID": "cv.html#key-expertise",
+    "href": "cv.html#key-expertise",
+    "title": "Curriculum Vitae",
+    "section": "Key Expertise",
+    "text": "Key Expertise\n\nPython, SQL, Pandas, Jupyter Notebook\nPower BI, DAX, Excel, VBA, Power Query\nFinancial controlling and forecasting\nSupply-chain and production KPI analysis\nRequirements analysis and process modelling\nFinancial-system implementation\nBusiness intelligence and management reporting"
+  },
+  {
+    "objectID": "cv.html#contact",
+    "href": "cv.html#contact",
+    "title": "Curriculum Vitae",
+    "section": "Contact",
+    "text": "Contact\n\nEmail: panj5487666@gmail.com\nLocation: Heilbronn, Germany\n\nFor full details, please download the PDF version above."
+  },
+  {
+    "objectID": "experience.html",
+    "href": "experience.html",
+    "title": "Professional Experience",
+    "section": "",
+    "text": "Supply Chain Strategy & Data Analyst Intern / Working Student\nSindelfingen, Germany · October 2025 – Present\n\nCleaned, validated, aggregated, and analysed international CKD production-network data using Python, Pandas, Jupyter Notebook, and Excel Power Query.\nWorked with data covering 8 countries, more than 10 plants, over 100 operational KPIs, and more than 10,000 KPI records per month.\nBuilt and maintained a Power BI dashboard integrating country, plant, time-period, and KPI dimensions.\nImproved management-reporting visibility and reduced manual consolidation effort.\n\n\n\n\nFinancial Controller\nHangzhou, China · September 2022 – April 2025\n\nLed the design and launch of a Financial Shared Services System from requirements analysis and process modelling through UAT and production rollout.\nCompleted the implementation within one year, supporting more than 10,000 small-business clients.\nDigitalised budgeting, approval, reimbursement, accounting, reconciliation, and management-reporting workflows.\nReduced manual entry and offline processing effort by more than 50%.\nUsed Excel VBA, Power Query, SQL, and Python for financial-data cleaning, budget forecasting, and business analysis.\nAchieved more than 95% forecasting accuracy and reduced annual tax expenses by 20%.\n\n\n\n\nSenior Financial Supervisor\nHangzhou, China · November 2019 – September 2022\n\nManaged budgeting, financial reporting, business analysis, and compliance activities across multiple entities.\nUsed Excel, Power Query, and financial-analysis models for variance analysis, cost-structure analysis, and cash-flow monitoring.\nCoordinated tax and compliance reporting with headquarters, business units, and external institutions.\nContributed to more than RMB 100 million in tax deferrals, improving cash-flow flexibility."
+  },
+  {
+    "objectID": "experience.html#work-experience",
+    "href": "experience.html#work-experience",
+    "title": "Professional Experience",
+    "section": "",
+    "text": "Supply Chain Strategy & Data Analyst Intern / Working Student\nSindelfingen, Germany · October 2025 – Present\n\nCleaned, validated, aggregated, and analysed international CKD production-network data using Python, Pandas, Jupyter Notebook, and Excel Power Query.\nWorked with data covering 8 countries, more than 10 plants, over 100 operational KPIs, and more than 10,000 KPI records per month.\nBuilt and maintained a Power BI dashboard integrating country, plant, time-period, and KPI dimensions.\nImproved management-reporting visibility and reduced manual consolidation effort.\n\n\n\n\nFinancial Controller\nHangzhou, China · September 2022 – April 2025\n\nLed the design and launch of a Financial Shared Services System from requirements analysis and process modelling through UAT and production rollout.\nCompleted the implementation within one year, supporting more than 10,000 small-business clients.\nDigitalised budgeting, approval, reimbursement, accounting, reconciliation, and management-reporting workflows.\nReduced manual entry and offline processing effort by more than 50%.\nUsed Excel VBA, Power Query, SQL, and Python for financial-data cleaning, budget forecasting, and business analysis.\nAchieved more than 95% forecasting accuracy and reduced annual tax expenses by 20%.\n\n\n\n\nSenior Financial Supervisor\nHangzhou, China · November 2019 – September 2022\n\nManaged budgeting, financial reporting, business analysis, and compliance activities across multiple entities.\nUsed Excel, Power Query, and financial-analysis models for variance analysis, cost-structure analysis, and cash-flow monitoring.\nCoordinated tax and compliance reporting with headquarters, business units, and external institutions.\nContributed to more than RMB 100 million in tax deferrals, improving cash-flow flexibility."
+  },
+  {
+    "objectID": "experience.html#education",
+    "href": "experience.html#education",
+    "title": "Professional Experience",
+    "section": "Education",
+    "text": "Education\n\nTechnical University of Munich\nMaster’s Degree in Management and Digital Technology\nHeilbronn, Germany · April 2025 – Present\nKey areas include:\n\nData analytics\nDigital technologies\nManagement\nOperations and supply chain\nQuantitative research\n\n\n\nHangzhou Dianzi University\nBachelor’s Degree in Accounting\nHangzhou, China · September 2016 – June 2020"
+  },
+  {
+    "objectID": "experience.html#technical-skills",
+    "href": "experience.html#technical-skills",
+    "title": "Professional Experience",
+    "section": "Technical Skills",
+    "text": "Technical Skills\n\n\n\n\n\n\n\nCategory\nSkills\n\n\n\n\nData Analysis\nPython, Pandas, NumPy, Jupyter Notebook\n\n\nDatabases\nSQL\n\n\nBI & Reporting\nPower BI, DAX, Excel, VBA, Power Query\n\n\nProgramming\nJavaScript, Go\n\n\nCloud & DevOps\nAWS, Docker, Kubernetes, Terraform, Helm\n\n\nBackend & Data Tools\nFastAPI, Redis, Elasticsearch, Linux\n\n\nDocumentation\nMarkdown, JSON, YAML, Mermaid\n\n\nMethods\nForecasting, KPI analysis, variance analysis, process modelling"
+  },
+  {
+    "objectID": "experience.html#selected-academic-technical-work",
+    "href": "experience.html#selected-academic-technical-work",
+    "title": "Professional Experience",
+    "section": "Selected Academic & Technical Work",
+    "text": "Selected Academic & Technical Work\nDetailed project case studies will be added in the next stage.\nCurrent project themes include:\n\nAI infrastructure startup analysis\nEnterprise cloud cost optimisation\nAI-based meeting-room search and booking\nChicago crime-data prediction"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Ji Pan",
+    "section": "",
+    "text": "Financial Controlling · Supply Chain Analytics · Digital Transformation\nI combine more than five years of experience in financial controlling with hands-on work in supply-chain data analysis, digital process transformation, and business intelligence.\nView Experience\nAbout Me\nDownload CV"
+  },
+  {
+    "objectID": "index.html#business-data-analyst",
+    "href": "index.html#business-data-analyst",
+    "title": "Ji Pan",
+    "section": "",
+    "text": "Financial Controlling · Supply Chain Analytics · Digital Transformation\nI combine more than five years of experience in financial controlling with hands-on work in supply-chain data analysis, digital process transformation, and business intelligence.\nView Experience\nAbout Me\nDownload CV"
+  },
+  {
+    "objectID": "index.html#professional-profile",
+    "href": "index.html#professional-profile",
+    "title": "Ji Pan",
+    "section": "Professional Profile",
+    "text": "Professional Profile\nI am currently pursuing a master’s degree in Management and Digital Technology at the Technical University of Munich while working in supply-chain strategy and data analytics at Mercedes-Benz Group AG.\nMy background combines:\n\nBusiness Analytics Financial Controlling Supply Chain Analytics Power BI Python SQL Process Digitalization Cloud & Data Tools"
+  },
+  {
+    "objectID": "index.html#selected-impact",
+    "href": "index.html#selected-impact",
+    "title": "Ji Pan",
+    "section": "Selected Impact",
+    "text": "Selected Impact\n\n  \n    8\n    Countries covered in CKD production analysis\n  \n\n  \n    10,000+\n    KPI records processed per month\n  \n\n  \n    50%+\n    Manual processing effort reduced\n  \n\n  \n    10,000+\n    Small-business clients served"
+  },
+  {
+    "objectID": "index.html#what-i-do",
+    "href": "index.html#what-i-do",
+    "title": "Ji Pan",
+    "section": "What I Do",
+    "text": "What I Do\n\nData Analytics\nI clean, validate, aggregate, and analyse operational and financial datasets using Python, Pandas, Jupyter Notebook, SQL, Excel, and Power Query.\n\n\nBusiness Intelligence\nI build Power BI dashboards that integrate multiple business dimensions and improve reporting visibility for management.\n\n\nFinancial & Process Transformation\nI have led financial-system implementation and workflow digitalisation projects covering budgeting, reimbursement, accounting, reconciliation, and management reporting."
+  },
+  {
+    "objectID": "index.html#current-focus",
+    "href": "index.html#current-focus",
+    "title": "Ji Pan",
+    "section": "Current Focus",
+    "text": "Current Focus\nI am particularly interested in roles at the intersection of:\n\nData and business analytics\nFinancial analytics and controlling\nSupply-chain and operations analytics\nBusiness intelligence\nCloud FinOps and cost optimisation\nAI-enabled business processes"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About Me",
+    "section": "",
+    "text": "I am a master’s student in Management and Digital Technology at the Technical University of Munich, Campus Heilbronn.\nBefore beginning my master’s degree, I built a strong professional foundation in financial controlling, business analysis, budgeting, compliance, and management reporting. I am currently expanding this experience through supply-chain strategy and data analytics work at Mercedes-Benz Group AG.\nMy main strength is the ability to connect business questions with analytical tools. I enjoy structuring complex information, identifying performance drivers, and turning data into clear recommendations for decision-makers."
+  },
+  {
+    "objectID": "about.html#profile",
+    "href": "about.html#profile",
+    "title": "About Me",
+    "section": "",
+    "text": "I am a master’s student in Management and Digital Technology at the Technical University of Munich, Campus Heilbronn.\nBefore beginning my master’s degree, I built a strong professional foundation in financial controlling, business analysis, budgeting, compliance, and management reporting. I am currently expanding this experience through supply-chain strategy and data analytics work at Mercedes-Benz Group AG.\nMy main strength is the ability to connect business questions with analytical tools. I enjoy structuring complex information, identifying performance drivers, and turning data into clear recommendations for decision-makers."
+  },
+  {
+    "objectID": "about.html#core-strengths",
+    "href": "about.html#core-strengths",
+    "title": "About Me",
+    "section": "Core Strengths",
+    "text": "Core Strengths\n\nBusiness Understanding\n\nFinancial controlling and budgeting\nVariance and cost-structure analysis\nCash-flow and compliance monitoring\nSupply-chain and production KPI analysis\nManagement reporting\n\n\n\nData & Technology\n\nPython and Pandas\nSQL\nPower BI and DAX\nExcel, VBA, and Power Query\nJupyter Notebook\nDocker, Kubernetes, Terraform, and Helm\nFastAPI, Vue.js, Redis, Elasticsearch\nMarkdown, JSON, YAML, and Mermaid\n\n\n\nProject & Process Skills\n\nRequirements analysis\nProcess modelling\nUser acceptance testing\nSystem rollout\nCross-functional coordination\nAgile collaboration\nDigital workflow design"
+  },
+  {
+    "objectID": "about.html#working-style",
+    "href": "about.html#working-style",
+    "title": "About Me",
+    "section": "Working Style",
+    "text": "Working Style\nI work in a structured and business-oriented way. I place particular emphasis on:\n\nunderstanding the business purpose behind an analysis;\nensuring data quality before drawing conclusions;\ncommunicating findings clearly to non-technical stakeholders;\nbuilding reusable and transparent analytical workflows;\nbalancing technical feasibility with practical business value."
+  },
+  {
+    "objectID": "about.html#languages",
+    "href": "about.html#languages",
+    "title": "About Me",
+    "section": "Languages",
+    "text": "Languages\n\nChinese: Native\nEnglish: Professional working proficiency\nGerman: B1"
+  },
+  {
+    "objectID": "about.html#career-interests",
+    "href": "about.html#career-interests",
+    "title": "About Me",
+    "section": "Career Interests",
+    "text": "Career Interests\nI am interested in opportunities such as:\n\nData Analyst\nBusiness Analyst\nFinancial Analyst\nBusiness Intelligence Analyst\nSupply Chain Analyst\nCloud FinOps Analyst\nCost Analytics\nAI-enabled Business Analysis"
+  }
+]

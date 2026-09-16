@@ -1,0 +1,42 @@
+project:
+  type: website
+  output-dir: _site
+  resources:
+    - assets/**
+
+website:
+  title: "Ji Pan"
+  description: "Business & Data Analytics Portfolio"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: about.qmd
+        text: About
+      - href: experience.qmd
+        text: Experience
+      - href: cv.qmd
+        text: CV
+    right:
+      - icon: envelope
+        href: "mailto:panj5487666@gmail.com"
+        aria-label: Email
+
+  page-footer:
+    left: "© 2026 Ji Pan"
+    right: "Built with Quarto"
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+    smooth-scroll: true
+    code-fold: true
+    code-copy: true
+    link-external-newwindow: true
+
+execute:
+  freeze: auto
+  warning: false
+  message: false

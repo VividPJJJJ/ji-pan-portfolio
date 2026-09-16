@@ -1,0 +1,73 @@
+---
+title: "About Me"
+description: "Professional background, strengths, and career focus"
+toc: true
+---
+
+## Profile
+
+I am a master's student in **Management and Digital Technology at the Technical University of Munich, Campus Heilbronn**.
+
+Before beginning my master's degree, I built a strong professional foundation in financial controlling, business analysis, budgeting, compliance, and management reporting. I am currently expanding this experience through supply-chain strategy and data analytics work at Mercedes-Benz Group AG.
+
+My main strength is the ability to connect business questions with analytical tools. I enjoy structuring complex information, identifying performance drivers, and turning data into clear recommendations for decision-makers.
+
+## Core Strengths
+
+### Business Understanding
+
+- Financial controlling and budgeting
+- Variance and cost-structure analysis
+- Cash-flow and compliance monitoring
+- Supply-chain and production KPI analysis
+- Management reporting
+
+### Data & Technology
+
+- Python and Pandas
+- SQL
+- Power BI and DAX
+- Excel, VBA, and Power Query
+- Jupyter Notebook
+- Docker, Kubernetes, Terraform, and Helm
+- FastAPI, Vue.js, Redis, Elasticsearch
+- Markdown, JSON, YAML, and Mermaid
+
+### Project & Process Skills
+
+- Requirements analysis
+- Process modelling
+- User acceptance testing
+- System rollout
+- Cross-functional coordination
+- Agile collaboration
+- Digital workflow design
+
+## Working Style
+
+I work in a structured and business-oriented way. I place particular emphasis on:
+
+- understanding the business purpose behind an analysis;
+- ensuring data quality before drawing conclusions;
+- communicating findings clearly to non-technical stakeholders;
+- building reusable and transparent analytical workflows;
+- balancing technical feasibility with practical business value.
+
+## Languages
+
+- **Chinese:** Native
+- **English:** Professional working proficiency
+- **German:** B1
+
+## Career Interests
+
+I am interested in opportunities such as:
+
+- Data Analyst
+- Business Analyst
+- Financial Analyst
+- Business Intelligence Analyst
+- Supply Chain Analyst
+- Cloud FinOps Analyst
+- Cost Analytics
+- AI-enabled Business Analysis
