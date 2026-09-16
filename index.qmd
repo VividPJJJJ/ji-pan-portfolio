@@ -1,90 +1,56 @@
 ---
-title: "Ji Pan"
+title: ""
+pagetitle: "Ji Pan"
+description: "Finance, controlling, data analytics, and digital technology"
 toc: false
 page-layout: full
-css: styles.css
 ---
+
 ::: {.hero}
 
 # Ji Pan
 
-## Business & Data Analyst
+## Finance, Data & Digital Technology
 
-Financial Controlling · Supply Chain Analytics · Digital Transformation
+Controlling · Data Analytics · Business Systems · Process Digitalisation
 
-I combine more than five years of experience in financial controlling with hands-on work in supply-chain data analysis, digital process transformation, and business intelligence.
+I combine five years of experience in finance and controlling with practical work in data analytics, business systems, and applied AI and cloud projects.
 
-[View Experience](experience.qmd){.btn .btn-primary .btn-lg}
-
-[About Me](about.qmd){.btn .btn-outline-primary .btn-lg}
-
-[Download CV](assets/cv/Ji_Pan_CV.pdf){.btn .btn-outline-secondary .btn-lg target="_blank"}
+[View experience](experience.qmd){.btn .btn-primary .btn-lg}
+[Explore projects](projects.qmd){.btn .btn-outline-primary .btn-lg}
+[CV (German, PDF)](assets/cv/Ji_Pan_CV_DE_2026-09-16.pdf){.btn .btn-outline-secondary .btn-lg target="_blank"}
 
 :::
 
 ## Professional Profile
 
-I am currently pursuing a master's degree in **Management and Digital Technology at the Technical University of Munich** while working in supply-chain strategy and data analytics at **Mercedes-Benz Group AG**.
+I am pursuing an **M.Sc. in Management and Digital Technology at the Technical University of Munich, Campus Heilbronn**. My experience includes supply-chain strategy and data analytics at Mercedes-Benz, alongside finance, controlling, and the implementation of digital business systems.
 
-My background combines:
-
-::: {.skill-list}
-<span class="skill-tag">Business Analytics</span>
-<span class="skill-tag">Financial Controlling</span>
-<span class="skill-tag">Supply Chain Analytics</span>
-<span class="skill-tag">Power BI</span>
-<span class="skill-tag">Python</span>
-<span class="skill-tag">SQL</span>
-<span class="skill-tag">Process Digitalization</span>
-<span class="skill-tag">Cloud & Data Tools</span>
-:::
+My focus is connecting business processes with data, automation, and modern digital technologies.
 
 ## Selected Impact
 
 ```{=html}
 <div class="metric-grid">
-  <div class="metric-card">
-    <div class="metric-value">8</div>
-    <div class="metric-label">Countries covered in CKD production analysis</div>
-  </div>
-
-  <div class="metric-card">
-    <div class="metric-value">10,000+</div>
-    <div class="metric-label">KPI records processed per month</div>
-  </div>
-
-  <div class="metric-card">
-    <div class="metric-value">50%+</div>
-    <div class="metric-label">Manual processing effort reduced</div>
-  </div>
-
-  <div class="metric-card">
-    <div class="metric-value">10,000+</div>
-    <div class="metric-label">Small-business clients served</div>
-  </div>
+<div class="metric-card"><div class="metric-value">8</div><div class="metric-label">Countries in the CKD production network</div></div>
+<div class="metric-card"><div class="metric-value">10,000+</div><div class="metric-label">KPI records analysed per month</div></div>
+<div class="metric-card"><div class="metric-value">50%+</div><div class="metric-label">Reduction in manual entry and offline processes</div></div>
+<div class="metric-card"><div class="metric-value">10,000+</div><div class="metric-label">Small-business clients supported by the financial system</div></div>
 </div>
 ```
-## What I Do
 
-### Data Analytics
+## Areas of Focus
 
-I clean, validate, aggregate, and analyse operational and financial datasets using Python, Pandas, Jupyter Notebook, SQL, Excel, and Power Query.
+### Data Analytics & Business Intelligence
 
-### Business Intelligence
+Python, SQL, Pandas, and Power BI for data preparation, KPI analysis, and management reporting.
 
-I build Power BI dashboards that integrate multiple business dimensions and improve reporting visibility for management.
+### Business Systems & Digitalisation
 
-### Financial & Process Transformation
+SAP, financial systems, requirements analysis, process modelling, and UAT for digital business processes.
 
-I have led financial-system implementation and workflow digitalisation projects covering budgeting, reimbursement, accounting, reconciliation, and management reporting.
+### AI & Cloud
 
-## Current Focus
+Applied projects in cloud cost optimisation, AI infrastructure, and LLM-based meeting-room search.
 
-I am particularly interested in roles at the intersection of:
-
-- Data and business analytics
-- Financial analytics and controlling
-- Supply-chain and operations analytics
-- Business intelligence
-- Cloud FinOps and cost optimisation
-- AI-enabled business processes
+[More about me](about.qmd) · [Explore my projects](projects.qmd)

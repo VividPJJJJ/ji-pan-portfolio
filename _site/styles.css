@@ -111,3 +111,17 @@ table {
     grid-template-columns: 1fr;
   }
 }
+
+/* Mark the current language without relying on colour alone. */
+.navbar .language-link {
+  white-space: nowrap;
+}
+.navbar .language-current .menu-text {
+  font-weight: 700;
+  text-decoration: underline;
+  text-underline-offset: 0.3em;
+}
+.navbar a:focus-visible {
+  outline: 2px solid currentColor;
+  outline-offset: 3px;
+}

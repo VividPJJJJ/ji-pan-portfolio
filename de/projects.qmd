@@ -1,0 +1,25 @@
+---
+title: "Ausgewählte Projekte"
+description: "Anwendungsorientierte Projekte zu Cloud-Optimierung, KI-Infrastruktur und LLM-Anwendungen"
+---
+
+## Enterprise Cloud Cost Optimization
+
+**Technologien:** Python, Pandas, DOcplex
+
+- Entwicklung eines Prototyps zur Optimierung von Cloud-Ressourcennutzung und Betriebskosten unter Berücksichtigung von Workloads, VM-Kapazitäten und SLA-Anforderungen.
+- Entwicklung und Bewertung eines Rolling-Horizon-Ansatzes zum Vergleich verschiedener Scheduling-Strategien anhand von VM-Auslastung, SLA-Verletzungen und Gesamtbetriebskosten.
+
+## AI Infrastructure Startup Analysis — Schwarz Project Study
+
+**Technologien:** Excel; ergänzend Python, Pandas und Jupyter Notebook zur Datenerhebung und -bereinigung
+
+- Analyse und Klassifizierung europäischer Start-ups aus den Bereichen AI Infrastructure, Cloud, DevOps und MLOps; Identifikation potenziell relevanter Unternehmen für Investments, Partnerschaften und internes Benchmarking.
+- Strukturierung und Aufbereitung von Unternehmensdaten in Excel nach Technologiebereich, Finanzierungsphase, Use Case und strategischer Relevanz zur Unterstützung des Portfolio-Screenings und der weiteren Analyse.
+
+## KI-basiertes System zur Meetingraum-Suche und -Buchung
+
+**Technologien:** LLM-Anwendungen, Python, JavaScript, Vue.js
+
+- Entwicklung eines LLM-basierten Prototyps zur Suche und Empfehlung von Meetingräumen, der natürlichsprachliche Nutzeranfragen in strukturierte Anforderungen wie Kapazität, Ausstattung, Standort und Zeit übersetzt.
+- Umsetzung des Anwendungsablaufs einschließlich Anfrageinterpretation, Raum-Matching und Buchungslogik in einem funktionsfähigen Prototyp.

@@ -1,30 +1,36 @@
 ---
 title: "Curriculum Vitae"
-description: "Downloadable CV and concise professional summary"
-toc: true
+description: "Latest German CV and professional summary"
 ---
 
-[Download CV as PDF](assets/cv/Ji_Pan_CV.pdf){.btn .btn-primary target="_blank"}
+[Download CV (German, PDF)](./assets/cv/Ji_Pan_CV_DE_2026-09-16.pdf){.btn .btn-primary target="_blank"}
+
+Latest CV: **16 September 2026**. The downloadable document is in German; the summary below is in English.
 
 ## Professional Summary
 
-Business and data analyst with more than five years of experience across financial controlling, digital process transformation, management reporting, and supply-chain analytics.
+M.Sc. student in Management and Digital Technology at TUM with five years of professional experience in finance, controlling, business systems, and process digitalisation. Practical experience with Python, SQL, Power BI, and SAP, alongside applied AI and cloud projects.
 
-Currently pursuing a master's degree in Management and Digital Technology at the Technical University of Munich and working at Mercedes-Benz Group AG in supply-chain strategy and data analytics.
+My focus is connecting business processes with data, automation, and modern digital technologies.
 
 ## Key Expertise
 
-- Python, SQL, Pandas, Jupyter Notebook
-- Power BI, DAX, Excel, VBA, Power Query
-- Financial controlling and forecasting
-- Supply-chain and production KPI analysis
-- Requirements analysis and process modelling
-- Financial-system implementation
-- Business intelligence and management reporting
+- Data analysis and business intelligence: Python, SQL, Pandas, Power BI, DAX, and Excel Power Query
+- Business systems and digitalisation: SAP, financial systems, requirements analysis, process modelling, and UAT
+- AI and automation: LLM applications, Scikit-learn, AI coding tools, REST APIs, and JavaScript
+- Cloud and DevOps: Docker, AWS, Kubernetes, Terraform, Helm, and Linux
 
-## Contact
+## Languages & Certifications
+
+Chinese (native), English (C1), German (B2).
+
+- Certified Management Accountant (CMA), IMA
+- Intermediate Accounting Professional Qualification, China
+
+## Contact & Availability
 
 - **Email:** [panj5487666@gmail.com](mailto:panj5487666@gmail.com)
 - **Location:** Heilbronn, Germany
+- **Availability:** Unrestricted full-time employment possible
 
-For full details, please download the PDF version above.
+[Professional experience](experience.qmd) · [Selected projects](projects.qmd)

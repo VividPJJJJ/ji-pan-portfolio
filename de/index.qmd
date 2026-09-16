@@ -1,0 +1,56 @@
+---
+title: ""
+pagetitle: "Ji Pan"
+description: "Finance, Controlling, Datenanalyse und digitale Technologien"
+toc: false
+page-layout: full
+---
+
+::: {.hero}
+
+# Ji Pan
+
+## Finance, Data & Digital Technology
+
+Controlling · Data Analytics · Geschäftssysteme · Prozessdigitalisierung
+
+Ich verbinde fünf Jahre Berufserfahrung in Finance und Controlling mit Praxiserfahrung in Datenanalyse, Geschäftssystemen sowie anwendungsorientierten KI- und Cloud-Projekten.
+
+[Berufserfahrung](experience.qmd){.btn .btn-primary .btn-lg}
+[Projekte entdecken](projects.qmd){.btn .btn-outline-primary .btn-lg}
+[Lebenslauf (Deutsch, PDF)](../assets/cv/Ji_Pan_CV_DE_2026-09-16.pdf){.btn .btn-outline-secondary .btn-lg target="_blank"}
+
+:::
+
+## Profil
+
+Ich studiere **Management and Digital Technology (M.Sc.) an der Technischen Universität München, Campus Heilbronn**. Meine Berufserfahrung umfasst Supply Chain Strategy & Data Analytics bei Mercedes-Benz sowie Finance, Controlling und die Einführung digitaler Geschäftssysteme.
+
+Im Mittelpunkt meiner Arbeit steht die Verbindung von Geschäftsprozessen mit Daten, Automatisierung und modernen digitalen Technologien.
+
+## Ausgewählte Kennzahlen
+
+```{=html}
+<div class="metric-grid">
+<div class="metric-card"><div class="metric-value">8</div><div class="metric-label">Länder im CKD-Produktionsnetzwerk</div></div>
+<div class="metric-card"><div class="metric-value">10.000+</div><div class="metric-label">KPI-Datensätze pro Monat</div></div>
+<div class="metric-card"><div class="metric-value">50 %+</div><div class="metric-label">Weniger manuelle Eingaben und Offline-Prozesse</div></div>
+<div class="metric-card"><div class="metric-value">10.000+</div><div class="metric-label">Kleine Unternehmenskunden im Finanzsystem</div></div>
+</div>
+```
+
+## Schwerpunkte
+
+### Datenanalyse & Business Intelligence
+
+Python, SQL, Pandas und Power BI für Datenaufbereitung, KPI-Analysen und Management-Reporting.
+
+### Geschäftssysteme & Digitalisierung
+
+SAP, Finanzsysteme, Anforderungsanalyse, Prozessmodellierung und UAT zur Digitalisierung von Geschäftsprozessen.
+
+### KI & Cloud
+
+Anwendungsorientierte Projekte zu Cloud-Kostenoptimierung, KI-Infrastruktur und LLM-basierter Meetingraum-Suche.
+
+[Mehr über mich](about.qmd) · [Projektübersicht](projects.qmd)

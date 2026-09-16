@@ -1,0 +1,52 @@
+---
+title: "Berufserfahrung"
+description: "Berufserfahrung und Ausbildung in Finance, Datenanalyse und digitalen Technologien"
+---
+
+## Berufserfahrung
+
+### Mercedes-Benz Group AG
+
+**Praktikantin / Werkstudentin — Supply Chain Strategy & Data Analytics**\
+Sindelfingen, Deutschland · Oktober 2025 – September 2026
+
+- Bereinigung, Validierung, Aggregation und Analyse internationaler CKD-Produktionsdaten mit Python, Pandas, Jupyter Notebook und Excel Power Query für **8 Länder, mehr als 10 Werke, über 100 operative KPIs und mehr als 10.000 KPI-Datensätze pro Monat**.
+- Erstellung und Pflege von Power-BI-Dashboards mit Länder-, Werk-, Zeit- und KPI-Dimensionen zur Verbesserung der Transparenz im Management-Reporting und zur Reduzierung manueller Konsolidierungsaufwände.
+- Zusammenarbeit mit internationalen Stakeholdern zur Standardisierung von KPI-Definitionen, Übersetzung fachlicher Anforderungen in messbare Kennzahlen und Unterstützung datenbasierter Entscheidungen.
+
+### Jibangbang Technology Co., Ltd
+
+**Financial Controller**\
+Hangzhou, China · September 2022 – April 2025
+
+- Verantwortung für Konzeption und Einführung eines Financial-Shared-Services-Systems einschließlich Anforderungsanalyse, Prozessmodellierung, UAT und Produktivsetzung innerhalb eines Jahres für **mehr als 10.000 kleine Unternehmenskunden**.
+- Digitalisierung von Budgetierungs-, Genehmigungs-, Erstattungs-, Buchhaltungs-, Abstimmungs- und Management-Reporting-Prozessen; Reduzierung manueller Eingaben und Offline-Prozesse um **mehr als 50 %**.
+- Einsatz von SQL, Python, Excel VBA und Power Query für Finanzdatenanalyse, Forecasting und Prozessoptimierung mit einer **Prognosegenauigkeit von über 95 %**.
+
+### Lvdu Real Estate Group Co., Ltd.
+
+**Senior Financial Supervisor**\
+Hangzhou, China · November 2019 – September 2022
+
+- Nutzung von SAP-Finanz- und Geschäftssystemen für Buchhaltung, Budgetierung, Kostencontrolling, Abstimmungen und Management-Reporting in mehreren Gesellschaften.
+- Verantwortung für Budgetierung, Finanzreporting und Business-Analysen, einschließlich Abweichungsanalysen, Kostenstrukturanalysen und Cashflow-Monitoring.
+- Koordination von Finanz-, Steuer- und Compliance-Prozessen mit der Zentrale, Geschäftsbereichen und externen Institutionen.
+
+## Ausbildung
+
+### Technische Universität München (TUM)
+
+**M.Sc. Management and Digital Technology**\
+Heilbronn, Deutschland · April 2025 – heute
+
+### Hangzhou Dianzi University
+
+**Bachelor in Accounting**\
+Hangzhou, China · September 2016 – Juni 2020
+
+## Zertifikate
+
+- Certified Management Accountant (CMA), IMA
+- Intermediate Accounting Professional Qualification, China
+
+[Meine Projekte entdecken](projects.qmd){.btn .btn-outline-primary}

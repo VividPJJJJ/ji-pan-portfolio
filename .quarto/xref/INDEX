@@ -13,5 +13,20 @@
   },
   "cv.qmd": {
     "cv.html": "46cdd055"
+  },
+  "de/about.qmd": {
+    "about.html": "c1e2cc9a"
+  },
+  "de/cv.qmd": {
+    "cv.html": "1b1fad00"
+  },
+  "de/experience.qmd": {
+    "experience.html": "2aabe34a"
+  },
+  "de/index.qmd": {
+    "index.html": "1c0196f4"
+  },
+  "de/projects.qmd": {
+    "projects.html": "32efa367"
   }
 }

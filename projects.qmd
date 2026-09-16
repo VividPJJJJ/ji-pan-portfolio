@@ -1,0 +1,25 @@
+---
+title: "Selected Projects"
+description: "Applied projects in cloud optimisation, AI infrastructure, and LLM applications"
+---
+
+## Enterprise Cloud Cost Optimization
+
+**Tools:** Python, Pandas, DOcplex
+
+- Developed a prototype to optimise cloud-resource utilisation and operating costs, taking workloads, VM capacities, and SLA requirements into account.
+- Developed and evaluated a rolling-horizon approach to compare scheduling strategies based on VM utilisation, SLA violations, and total operating costs.
+
+## AI Infrastructure Startup Analysis — Schwarz Project Study
+
+**Tools:** Excel; Python, Pandas, and Jupyter Notebook for supplementary data collection and cleaning
+
+- Analysed and classified European start-ups in AI infrastructure, cloud, DevOps, and MLOps to identify companies potentially relevant for investments, partnerships, and internal benchmarking.
+- Structured company data in Excel by technology area, funding stage, use case, and strategic relevance to support portfolio screening and further analysis.
+
+## AI-Based Meeting-Room Search & Booking
+
+**Tools:** LLM applications, Python, JavaScript, Vue.js
+
+- Developed an LLM-based prototype for meeting-room search and recommendation, translating natural-language requests into structured requirements such as capacity, equipment, location, and time.
+- Implemented request interpretation, room matching, and booking logic in a working application prototype.

@@ -1,6 +1,11 @@
 project:
   type: website
-  output-dir: _site
+  output-dir: docs
+  render:
+    - "*.qmd"
+    - "de/*.qmd"
+  post-render:
+    - "python3 scripts/localize.py"
   resources:
     - assets/**
 
@@ -15,9 +20,15 @@ website:
         text: About
       - href: experience.qmd
         text: Experience
+      - href: projects.qmd
+        text: Projects
       - href: cv.qmd
         text: CV
     right:
+      - href: /index.qmd
+        text: English
+      - href: /de/index.qmd
+        text: Deutsch
       - icon: envelope
         href: "mailto:panj5487666@gmail.com"
         aria-label: Email
@@ -25,6 +36,8 @@ website:
   page-footer:
     left: "© 2026 Ji Pan"
     right: "Built with Quarto"
+
+lang: en
 
 format:
   html:

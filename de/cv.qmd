@@ -1,0 +1,36 @@
+---
+title: "Lebenslauf"
+description: "Aktueller deutscher Lebenslauf und berufliches Kurzprofil"
+---
+
+[Lebenslauf herunterladen (Deutsch, PDF)](../assets/cv/Ji_Pan_CV_DE_2026-09-16.pdf){.btn .btn-primary target="_blank"}
+
+Stand: **16. September 2026**.
+
+## Kurzprofil
+
+M.Sc.-Studentin im Studiengang Management and Digital Technology an der TUM mit fünf Jahren Berufserfahrung in Finance, Controlling, Geschäftssystemen und Prozessdigitalisierung. Praxiserfahrung mit Python, SQL, Power BI und SAP sowie anwendungsorientierten KI- und Cloud-Projekten.
+
+Mein Schwerpunkt liegt auf der Verbindung von Geschäftsprozessen mit Daten, Automatisierung und modernen digitalen Technologien.
+
+## Kernkompetenzen
+
+- Datenanalyse und Business Intelligence: Python, SQL, Pandas, Power BI, DAX und Excel Power Query
+- Geschäftssysteme und Digitalisierung: SAP, Finanzsysteme, Anforderungsanalyse, Prozessmodellierung und UAT
+- KI und Automatisierung: LLM-Anwendungen, Scikit-learn, KI-Coding-Tools, REST APIs und JavaScript
+- Cloud und DevOps: Docker, AWS, Kubernetes, Terraform, Helm und Linux
+
+## Sprachen & Zertifikate
+
+Chinesisch (Muttersprache), Englisch (C1), Deutsch (B2).
+
+- Certified Management Accountant (CMA), IMA
+- Intermediate Accounting Professional Qualification, China
+
+## Kontakt & Verfügbarkeit
+
+- **E-Mail:** [panj5487666@gmail.com](mailto:panj5487666@gmail.com)
+- **Standort:** Heilbronn, Deutschland
+- **Verfügbarkeit:** Uneingeschränkte Vollzeitbeschäftigung möglich
+
+[Berufserfahrung](experience.qmd) · [Ausgewählte Projekte](projects.qmd)

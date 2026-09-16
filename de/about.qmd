@@ -1,0 +1,46 @@
+---
+title: "Über mich"
+description: "Erfahrung in Finance, Geschäftssystemen, Datenanalyse und digitalen Technologien"
+---
+
+## Profil
+
+Ich bin **M.Sc.-Studentin im Studiengang Management and Digital Technology an der Technischen Universität München (TUM), Campus Heilbronn**, mit fünf Jahren Berufserfahrung in Finance, Controlling, Geschäftssystemen und Prozessdigitalisierung.
+
+Ich verfüge über Praxiserfahrung mit **Python, SQL, Power BI und SAP** sowie mit anwendungsorientierten KI- und Cloud-Projekten. Mein Schwerpunkt liegt auf der Verbindung von Geschäftsprozessen mit Daten, Automatisierung und modernen digitalen Technologien.
+
+## Kenntnisse
+
+### Data & Analytics
+
+Python, SQL, Pandas, Power BI, DAX und Excel Power Query.
+
+### Geschäftssysteme & Digitalisierung
+
+SAP, Finanzsysteme, Anforderungsanalyse, Prozessmodellierung, User Acceptance Testing (UAT) und Prozessdigitalisierung.
+
+### KI & Automatisierung
+
+LLM-Anwendungen, Scikit-learn, KI-Coding-Tools, REST APIs und JavaScript.
+
+### Cloud & DevOps
+
+Docker, AWS, Kubernetes, Terraform, Helm und Linux.
+
+## Sprachen
+
+- **Chinesisch:** Muttersprache
+- **Englisch:** C1
+- **Deutsch:** B2
+
+## Zertifikate
+
+- **Certified Management Accountant (CMA)** — IMA
+- **Intermediate Accounting Professional Qualification** — China
+
+## Standort & Verfügbarkeit
+
+Wohnhaft in **Heilbronn, Deutschland**. Uneingeschränkte Vollzeitbeschäftigung möglich.
+
+[Meine Berufserfahrung](experience.qmd){.btn .btn-primary}
+[Ausgewählte Projekte](projects.qmd){.btn .btn-outline-primary}
