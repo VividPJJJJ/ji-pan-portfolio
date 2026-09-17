@@ -37,4 +37,4 @@ description: "Applied projects in cloud optimisation, AI infrastructure, and LLM
 
 [Launch Interactive Demo](apps/crime-atlas/){.btn .btn-primary}
 
-> **Note:** All the demo backend may take up to ~50 seconds to wake up on the first request. Please wait a moment if the initial load is slow.
+**Note:** All the demo backend may take up to ~50 seconds to wake up on the first request. Please wait a moment if the initial load is slow.
