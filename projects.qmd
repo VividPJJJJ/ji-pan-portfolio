@@ -24,6 +24,8 @@ description: "Applied projects in cloud optimisation, AI infrastructure, and LLM
 - Developed an LLM-based prototype for meeting-room search and recommendation, translating natural-language requests into structured requirements such as capacity, equipment, location, and time.
 - Implemented request interpretation, room matching, and booking logic in a working application prototype.
 
+[Launch Interactive Demo](apps/roomwise/){.btn .btn-primary}
+
 ## Crime Atlas
 
 **Technologies:** Vue 3, TypeScript, Kotlin, Ktor, PostgreSQL, ECharts

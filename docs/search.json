@@ -25,7 +25,7 @@
     "href": "projects.html#ai-based-meeting-room-search-booking",
     "title": "Selected Projects",
     "section": "AI-Based Meeting-Room Search & Booking",
-    "text": "AI-Based Meeting-Room Search & Booking\nTools: LLM applications, Python, JavaScript, Vue.js\n\nDeveloped an LLM-based prototype for meeting-room search and recommendation, translating natural-language requests into structured requirements such as capacity, equipment, location, and time.\nImplemented request interpretation, room matching, and booking logic in a working application prototype."
+    "text": "AI-Based Meeting-Room Search & Booking\nTools: LLM applications, Python, JavaScript, Vue.js\n\nDeveloped an LLM-based prototype for meeting-room search and recommendation, translating natural-language requests into structured requirements such as capacity, equipment, location, and time.\nImplemented request interpretation, room matching, and booking logic in a working application prototype.\n\nLaunch Interactive Demo"
   },
   {
     "objectID": "projects.html#crime-atlas",
@@ -305,7 +305,7 @@
     "href": "de/projects.html#ki-basiertes-system-zur-meetingraum-suche-und--buchung",
     "title": "Ausgewählte Projekte",
     "section": "KI-basiertes System zur Meetingraum-Suche und -Buchung",
-    "text": "KI-basiertes System zur Meetingraum-Suche und -Buchung\nTechnologien: LLM-Anwendungen, Python, JavaScript, Vue.js\n\nEntwicklung eines LLM-basierten Prototyps zur Suche und Empfehlung von Meetingräumen, der natürlichsprachliche Nutzeranfragen in strukturierte Anforderungen wie Kapazität, Ausstattung, Standort und Zeit übersetzt.\nUmsetzung des Anwendungsablaufs einschließlich Anfrageinterpretation, Raum-Matching und Buchungslogik in einem funktionsfähigen Prototyp."
+    "text": "KI-basiertes System zur Meetingraum-Suche und -Buchung\nTechnologien: LLM-Anwendungen, Python, JavaScript, Vue.js\n\nEntwicklung eines LLM-basierten Prototyps zur Suche und Empfehlung von Meetingräumen, der natürlichsprachliche Nutzeranfragen in strukturierte Anforderungen wie Kapazität, Ausstattung, Standort und Zeit übersetzt.\nUmsetzung des Anwendungsablaufs einschließlich Anfrageinterpretation, Raum-Matching und Buchungslogik in einem funktionsfähigen Prototyp.\n\nInteraktive Demo öffnen"
   },
   {
     "objectID": "de/projects.html#crime-atlas",

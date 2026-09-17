@@ -24,6 +24,8 @@ description: "Anwendungsorientierte Projekte zu Cloud-Optimierung, KI-Infrastruk
 - Entwicklung eines LLM-basierten Prototyps zur Suche und Empfehlung von Meetingräumen, der natürlichsprachliche Nutzeranfragen in strukturierte Anforderungen wie Kapazität, Ausstattung, Standort und Zeit übersetzt.
 - Umsetzung des Anwendungsablaufs einschließlich Anfrageinterpretation, Raum-Matching und Buchungslogik in einem funktionsfähigen Prototyp.
 
+[Interaktive Demo öffnen](../apps/roomwise/){.btn .btn-primary}
+
 ## Crime Atlas
 
 **Technologien:** Vue 3, TypeScript, Kotlin, Ktor, PostgreSQL, ECharts
