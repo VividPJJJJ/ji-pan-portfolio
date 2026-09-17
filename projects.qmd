@@ -23,3 +23,14 @@ description: "Applied projects in cloud optimisation, AI infrastructure, and LLM
 
 - Developed an LLM-based prototype for meeting-room search and recommendation, translating natural-language requests into structured requirements such as capacity, equipment, location, and time.
 - Implemented request interpretation, room matching, and booking logic in a working application prototype.
+
+## Crime Atlas
+
+**Technologies:** Vue 3, TypeScript, Kotlin, Ktor, PostgreSQL, ECharts
+
+- Developed an interactive US crime analysis prototype featuring state-level mapping, city search, offense and time filters, trend analysis, seasonality analysis, and six-month baseline forecasting.
+- Implemented a layered full-stack architecture with a Vue frontend, Kotlin/Ktor backend, and PostgreSQL-based data storage and caching.
+
+> The public demo uses deterministic synthetic observations and does not represent actual US crime statistics.
+
+[Launch Interactive Demo](apps/crime-atlas/){.btn .btn-primary}

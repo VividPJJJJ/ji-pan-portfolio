@@ -28,6 +28,13 @@
     "text": "AI-Based Meeting-Room Search & Booking\nTools: LLM applications, Python, JavaScript, Vue.js\n\nDeveloped an LLM-based prototype for meeting-room search and recommendation, translating natural-language requests into structured requirements such as capacity, equipment, location, and time.\nImplemented request interpretation, room matching, and booking logic in a working application prototype."
   },
   {
+    "objectID": "projects.html#crime-atlas",
+    "href": "projects.html#crime-atlas",
+    "title": "Selected Projects",
+    "section": "Crime Atlas",
+    "text": "Crime Atlas\nTechnologies: Vue 3, TypeScript, Kotlin, Ktor, PostgreSQL, ECharts\n\nDeveloped an interactive US crime analysis prototype featuring state-level mapping, city search, offense and time filters, trend analysis, seasonality analysis, and six-month baseline forecasting.\nImplemented a layered full-stack architecture with a Vue frontend, Kotlin/Ktor backend, and PostgreSQL-based data storage and caching.\n\n\nThe public demo uses deterministic synthetic observations and does not represent actual US crime statistics.\n\nLaunch Interactive Demo"
+  },
+  {
     "objectID": "experience.html",
     "href": "experience.html",
     "title": "Professional Experience",
@@ -299,6 +306,13 @@
     "title": "Ausgewählte Projekte",
     "section": "KI-basiertes System zur Meetingraum-Suche und -Buchung",
     "text": "KI-basiertes System zur Meetingraum-Suche und -Buchung\nTechnologien: LLM-Anwendungen, Python, JavaScript, Vue.js\n\nEntwicklung eines LLM-basierten Prototyps zur Suche und Empfehlung von Meetingräumen, der natürlichsprachliche Nutzeranfragen in strukturierte Anforderungen wie Kapazität, Ausstattung, Standort und Zeit übersetzt.\nUmsetzung des Anwendungsablaufs einschließlich Anfrageinterpretation, Raum-Matching und Buchungslogik in einem funktionsfähigen Prototyp."
+  },
+  {
+    "objectID": "de/projects.html#crime-atlas",
+    "href": "de/projects.html#crime-atlas",
+    "title": "Ausgewählte Projekte",
+    "section": "Crime Atlas",
+    "text": "Crime Atlas\nTechnologien: Vue 3, TypeScript, Kotlin, Ktor, PostgreSQL, ECharts\n\nEntwicklung eines interaktiven Prototyps zur Analyse von US-Kriminalitätsdaten mit Bundesstaatenkarte, Stadtsuche, Delikt- und Zeitfiltern, Trendanalyse, Saisonalität und Prognose.\nUmsetzung einer mehrschichtigen Architektur mit Vue-Frontend, Kotlin/Ktor-Backend und PostgreSQL-basiertem Datenspeicher.\n\nInteraktive Demo öffnen"
   },
   {
     "objectID": "index.html",

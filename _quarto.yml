@@ -8,6 +8,7 @@ project:
     - "python3 scripts/localize.py"
   resources:
     - assets/**
+    - apps/**
 
 website:
   title: "Ji Pan"

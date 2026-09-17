@@ -23,3 +23,12 @@ description: "Anwendungsorientierte Projekte zu Cloud-Optimierung, KI-Infrastruk
 
 - Entwicklung eines LLM-basierten Prototyps zur Suche und Empfehlung von Meetingräumen, der natürlichsprachliche Nutzeranfragen in strukturierte Anforderungen wie Kapazität, Ausstattung, Standort und Zeit übersetzt.
 - Umsetzung des Anwendungsablaufs einschließlich Anfrageinterpretation, Raum-Matching und Buchungslogik in einem funktionsfähigen Prototyp.
+
+## Crime Atlas
+
+**Technologien:** Vue 3, TypeScript, Kotlin, Ktor, PostgreSQL, ECharts
+
+- Entwicklung eines interaktiven Prototyps zur Analyse von US-Kriminalitätsdaten mit Bundesstaatenkarte, Stadtsuche, Delikt- und Zeitfiltern, Trendanalyse, Saisonalität und Prognose.
+- Umsetzung einer mehrschichtigen Architektur mit Vue-Frontend, Kotlin/Ktor-Backend und PostgreSQL-basiertem Datenspeicher.
+
+[Interaktive Demo öffnen](apps/crime-atlas/){.btn .btn-primary}
