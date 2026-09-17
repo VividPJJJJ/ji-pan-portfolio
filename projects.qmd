@@ -33,6 +33,6 @@ description: "Applied projects in cloud optimisation, AI infrastructure, and LLM
 - Developed an interactive US crime analysis prototype featuring state-level mapping, city search, offense and time filters, trend analysis, seasonality analysis, and six-month baseline forecasting.
 - Implemented a layered full-stack architecture with a Vue frontend, Kotlin/Ktor backend, and PostgreSQL-based data storage and caching.
 
-> The public demo uses deterministic synthetic observations and does not represent actual US crime statistics.
+> The public demo data based on FBI Databases
 
 [Launch Interactive Demo](apps/crime-atlas/){.btn .btn-primary}
