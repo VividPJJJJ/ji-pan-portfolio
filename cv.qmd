@@ -5,7 +5,7 @@ description: "Latest German CV and professional summary"
 
 [Download CV (PDF)](./assets/cv/Ji_Pan_CV.pdf){.btn .btn-primary target="_blank"}
 
-Latest CV: **16 September 2026**. The downloadable document is in German; the summary below is in English.
+Latest CV: **16 September 2026**.
 
 ## Professional Summary
 
