@@ -34,3 +34,5 @@ description: "Anwendungsorientierte Projekte zu Cloud-Optimierung, KI-Infrastruk
 - Umsetzung einer mehrschichtigen Architektur mit Vue-Frontend, Kotlin/Ktor-Backend und PostgreSQL-basiertem Datenspeicher.
 
 [Interaktive Demo öffnen](../apps/crime-atlas/){.btn .btn-primary}
+
+> **Hinweis:** Alles Demo-Backend benötigt beim ersten Aufruf möglicherweise bis zu etwa 50 Sekunden zum Starten. Bitte warten Sie einen Moment, falls das erste Laden etwas länger dauert.

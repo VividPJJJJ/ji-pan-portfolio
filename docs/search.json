@@ -32,7 +32,7 @@
     "href": "projects.html#crime-atlas",
     "title": "Selected Projects",
     "section": "Crime Atlas",
-    "text": "Crime Atlas\nTechnologies: Vue 3, TypeScript, Kotlin, Ktor, PostgreSQL, ECharts\n\nDeveloped an interactive US crime analysis prototype featuring state-level mapping, city search, offense and time filters, trend analysis, seasonality analysis, and six-month baseline forecasting.\nImplemented a layered full-stack architecture with a Vue frontend, Kotlin/Ktor backend, and PostgreSQL-based data storage and caching.\n\n\nThe public demo data based on FBI Databases\n\nLaunch Interactive Demo"
+    "text": "Crime Atlas\nTechnologies: Vue 3, TypeScript, Kotlin, Ktor, PostgreSQL, ECharts\n\nDeveloped an interactive US crime analysis prototype featuring state-level mapping, city search, offense and time filters, trend analysis, seasonality analysis, and six-month baseline forecasting.\nImplemented a layered full-stack architecture with a Vue frontend, Kotlin/Ktor backend, and PostgreSQL-based data storage and caching.\n\n\nThe public demo data based on FBI Databases\n\nLaunch Interactive Demo\n\nNote: All the demo backend may take up to ~50 seconds to wake up on the first request. Please wait a moment if the initial load is slow."
   },
   {
     "objectID": "experience.html",
@@ -312,7 +312,7 @@
     "href": "de/projects.html#crime-atlas",
     "title": "Ausgewählte Projekte",
     "section": "Crime Atlas",
-    "text": "Crime Atlas\nTechnologien: Vue 3, TypeScript, Kotlin, Ktor, PostgreSQL, ECharts\n\nEntwicklung eines interaktiven Prototyps zur Analyse von US-Kriminalitätsdaten mit Bundesstaatenkarte, Stadtsuche, Delikt- und Zeitfiltern, Trendanalyse, Saisonalität und Prognose.\nUmsetzung einer mehrschichtigen Architektur mit Vue-Frontend, Kotlin/Ktor-Backend und PostgreSQL-basiertem Datenspeicher.\n\nInteraktive Demo öffnen"
+    "text": "Crime Atlas\nTechnologien: Vue 3, TypeScript, Kotlin, Ktor, PostgreSQL, ECharts\n\nEntwicklung eines interaktiven Prototyps zur Analyse von US-Kriminalitätsdaten mit Bundesstaatenkarte, Stadtsuche, Delikt- und Zeitfiltern, Trendanalyse, Saisonalität und Prognose.\nUmsetzung einer mehrschichtigen Architektur mit Vue-Frontend, Kotlin/Ktor-Backend und PostgreSQL-basiertem Datenspeicher.\n\nInteraktive Demo öffnen\n\nHinweis: Alles Demo-Backend benötigt beim ersten Aufruf möglicherweise bis zu etwa 50 Sekunden zum Starten. Bitte warten Sie einen Moment, falls das erste Laden etwas länger dauert."
   },
   {
     "objectID": "index.html",
