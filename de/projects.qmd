@@ -31,4 +31,4 @@ description: "Anwendungsorientierte Projekte zu Cloud-Optimierung, KI-Infrastruk
 - Entwicklung eines interaktiven Prototyps zur Analyse von US-Kriminalitätsdaten mit Bundesstaatenkarte, Stadtsuche, Delikt- und Zeitfiltern, Trendanalyse, Saisonalität und Prognose.
 - Umsetzung einer mehrschichtigen Architektur mit Vue-Frontend, Kotlin/Ktor-Backend und PostgreSQL-basiertem Datenspeicher.
 
-[Interaktive Demo öffnen](apps/crime-atlas/){.btn .btn-primary}
+[Interaktive Demo öffnen](../apps/crime-atlas/){.btn .btn-primary}
