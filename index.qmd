@@ -18,7 +18,7 @@ I combine five years of experience in finance and controlling with practical wor
 
 [View experience](experience.qmd){.btn .btn-primary .btn-lg}
 [Explore projects](projects.qmd){.btn .btn-outline-primary .btn-lg}
-[CV (German, PDF)](assets/cv/Ji_Pan_CV_DE_2026-09-16.pdf){.btn .btn-outline-secondary .btn-lg target="_blank"}
+[CV (PDF)](assets/cv/Ji_Pan_CV.pdf){.btn .btn-outline-secondary .btn-lg target="_blank"}
 
 :::
 
