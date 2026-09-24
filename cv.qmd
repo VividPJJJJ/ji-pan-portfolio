@@ -3,9 +3,9 @@ title: "Curriculum Vitae"
 description: "Latest German CV and professional summary"
 ---
 
-[Download CV (PDF)](./assets/cv/Ji_Pan_CV.pdf){.btn .btn-primary target="_blank"}
+[Download CV (PDF)](./assets/cv/Ji_Pan_CV_EN.pdf){.btn .btn-primary target="_blank"}
 
-Latest CV: **16 September 2026**.
+Latest CV: **24 September 2026**.
 
 ## Professional Summary
 
