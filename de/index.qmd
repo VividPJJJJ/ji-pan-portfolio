@@ -18,7 +18,7 @@ Ich verbinde fünf Jahre Berufserfahrung in Finance und Controlling mit Praxiser
 
 [Berufserfahrung](experience.qmd){.btn .btn-primary .btn-lg}
 [Projekte entdecken](projects.qmd){.btn .btn-outline-primary .btn-lg}
-[Lebenslauf (Deutsch, PDF)](../assets/cv/Ji_Pan_CV_DE_2026-09-16.pdf){.btn .btn-outline-secondary .btn-lg target="_blank"}
+[Lebenslauf (Deutsch, PDF)](../assets/cv/Ji_Pan_CV_DE.pdf){.btn .btn-outline-secondary .btn-lg target="_blank"}
 
 :::
 
