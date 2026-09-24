@@ -3,7 +3,7 @@ title: "Lebenslauf"
 description: "Aktueller deutscher Lebenslauf und berufliches Kurzprofil"
 ---
 
-[Lebenslauf herunterladen (Deutsch, PDF)](../assets/cv/Ji_Pan_CV_DE_2026-09-16.pdf){.btn .btn-primary target="_blank"}
+[Lebenslauf herunterladen (Deutsch, PDF)](../assets/cv/Ji_Pan_CV_DE.pdf){.btn .btn-primary target="_blank"}
 
 Stand: **16. September 2026**.
 
