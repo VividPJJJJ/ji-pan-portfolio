@@ -1,37 +1,39 @@
 ---
 title: "About Me"
-description: "Background in finance, business systems, data analytics, and digital technology"
+description: "Background in data analytics, process automation, digital systems, and technical solutions"
 ---
 
 ## Profile
 
-I am an **M.Sc. student in Management and Digital Technology at the Technical University of Munich (TUM), Campus Heilbronn**, with five years of professional experience in finance, controlling, business systems, and process digitalisation.
+I am an **M.Sc. student in Management and Digital Technology at the Technical University of Munich (TUM), Campus Heilbronn**, with five years of professional experience across **data analytics, process automation, digital business systems, and finance**.
 
-My practical experience spans **Python, SQL, Power BI, and SAP**, alongside applied AI and cloud projects. I focus on connecting business processes with data, automation, and modern digital technologies.
+My hands-on experience includes **Python, SQL, Power BI, JavaScript, REST APIs, UAT, SAP, and workflow automation**, supported by applied projects in **machine learning, LLM applications, and cloud optimization**.
+
+My focus is using **data, automation, and technical tools to simplify complex business processes, improve system reliability, and create measurable impact**.
 
 ## Expertise
 
 ### Data & Analytics
 
-Python, SQL, Pandas, Power BI, DAX, and Excel Power Query.
+Python, SQL, Pandas, Power BI, DAX, Excel Power Query, Excel VBA, and Jupyter Notebook.
 
-### Business Systems & Digitalisation
+### Automation, Testing & Digital Systems
 
-SAP, financial systems, requirements analysis, process modelling, user acceptance testing (UAT), and process digitalisation.
+Process automation, requirements analysis, process modeling, user acceptance testing (UAT), REST APIs, SAP, and finance & business systems.
 
-### AI & Automation
+### AI & Technical Prototyping
 
-LLM applications, Scikit-learn, AI coding tools, REST APIs, and JavaScript.
+LLM applications, Scikit-learn, JavaScript, API-based workflows, and technical prototyping.
 
 ### Cloud & DevOps
 
-Docker, AWS, Kubernetes, Terraform, Helm, and Linux.
+Linux, Docker, AWS, Kubernetes, Terraform, and Helm.
 
 ## Languages
 
 - **Chinese:** Native
-- **English:** C1
-- **German:** B2
+- **English:** C2
+- **German:** C1
 
 ## Certifications
 
@@ -40,7 +42,7 @@ Docker, AWS, Kubernetes, Terraform, Helm, and Linux.
 
 ## Location & Availability
 
-Based in **Heilbronn, Germany**. Available for unrestricted full-time employment.
+Based in **Heilbronn, Germany**. Eligible for unrestricted full-time employment.
 
 [Explore my experience](experience.qmd){.btn .btn-primary}
 [View selected projects](projects.qmd){.btn .btn-outline-primary}

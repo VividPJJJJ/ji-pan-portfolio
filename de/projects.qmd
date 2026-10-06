@@ -1,38 +1,47 @@
 ---
 title: "Ausgewählte Projekte"
-description: "Anwendungsorientierte Projekte zu Cloud-Optimierung, KI-Infrastruktur und LLM-Anwendungen"
+description: "Ausgewählte Projekte in Softwareentwicklung, KI-Anwendungen, Datenanalyse, Automatisierung und Cloud-Optimierung"
 ---
-
-## Enterprise Cloud Cost Optimization
-
-**Technologien:** Python, Pandas, DOcplex
-
-- Entwicklung eines Prototyps zur Optimierung von Cloud-Ressourcennutzung und Betriebskosten unter Berücksichtigung von Workloads, VM-Kapazitäten und SLA-Anforderungen.
-- Entwicklung und Bewertung eines Rolling-Horizon-Ansatzes zum Vergleich verschiedener Scheduling-Strategien anhand von VM-Auslastung, SLA-Verletzungen und Gesamtbetriebskosten.
-
-## AI Infrastructure Startup Analysis — Schwarz Project Study
-
-**Technologien:** Excel; ergänzend Python, Pandas und Jupyter Notebook zur Datenerhebung und -bereinigung
-
-- Analyse und Klassifizierung europäischer Start-ups aus den Bereichen AI Infrastructure, Cloud, DevOps und MLOps; Identifikation potenziell relevanter Unternehmen für Investments, Partnerschaften und internes Benchmarking.
-- Strukturierung und Aufbereitung von Unternehmensdaten in Excel nach Technologiebereich, Finanzierungsphase, Use Case und strategischer Relevanz zur Unterstützung des Portfolio-Screenings und der weiteren Analyse.
-
-## KI-basiertes System zur Meetingraum-Suche und -Buchung
-
-**Technologien:** LLM-Anwendungen, Python, JavaScript, Vue.js
-
-- Entwicklung eines LLM-basierten Prototyps zur Suche und Empfehlung von Meetingräumen, der natürlichsprachliche Nutzeranfragen in strukturierte Anforderungen wie Kapazität, Ausstattung, Standort und Zeit übersetzt.
-- Umsetzung des Anwendungsablaufs einschließlich Anfrageinterpretation, Raum-Matching und Buchungslogik in einem funktionsfähigen Prototyp.
-
-[Interaktive Demo öffnen](../apps/roomwise/){.btn .btn-primary}
 
 ## Crime Atlas
 
 **Technologien:** Vue 3, TypeScript, Kotlin, Ktor, PostgreSQL, ECharts
 
-- Entwicklung eines interaktiven Prototyps zur Analyse von US-Kriminalitätsdaten mit Bundesstaatenkarte, Stadtsuche, Delikt- und Zeitfiltern, Trendanalyse, Saisonalität und Prognose.
-- Umsetzung einer mehrschichtigen Architektur mit Vue-Frontend, Kotlin/Ktor-Backend und PostgreSQL-basiertem Datenspeicher.
+- Entwicklung einer interaktiven Anwendung zur Analyse von US-Kriminalitätsdaten mit **Bundesstaatenkarte, Stadtsuche, Delikt- und Zeitfiltern, Trendanalyse, Saisonalitätsanalyse und sechsmonatiger Basisprognose**.
+- Umsetzung einer **mehrschichtigen Full-Stack-Architektur** mit Vue-Frontend, Kotlin/Ktor-Backend sowie PostgreSQL-basierter Datenspeicherung und Caching.
+- Verbindung interaktiver Datenvisualisierung mit Backend-Datenverarbeitung, um umfangreiche öffentliche Kriminalitätsdaten in einem leicht zugänglichen Analysetool nutzbar zu machen.
+
+> Öffentliche Demo auf Basis von FBI-Kriminalitätsdaten.
 
 [Interaktive Demo öffnen](../apps/crime-atlas/){.btn .btn-primary}
 
-**Hinweis:** Alles Demo-Backend benötigt beim ersten Aufruf möglicherweise bis zu etwa 50 Sekunden zum Starten. Bitte warten Sie einen Moment, falls das erste Laden etwas länger dauert.
+**Hinweis:** Das Demo-Backend benötigt beim ersten Aufruf möglicherweise bis zu etwa 50 Sekunden zum Starten. Bitte warten Sie einen Moment, falls das erste Laden etwas länger dauert.
+
+
+## KI-basierte Meetingraum-Suche und -Buchung
+
+**Technologien:** LLM-Anwendungen, Python, JavaScript, Vue.js, REST APIs
+
+- Entwicklung eines **LLM-basierten Anwendungsprototyps**, der natürlichsprachliche Meetingraum-Anfragen in strukturierte Kriterien wie Kapazität, Ausstattung, Standort und Zeit übersetzt.
+- Umsetzung eines End-to-End-Workflows für **Anfrageinterpretation, Raum-Matching, Empfehlung und Buchungslogik**.
+- Verbindung LLM-basierter Anfrageverarbeitung mit Anwendungslogik und API-basierter Kommunikation in einem funktionsfähigen Prototyp.
+
+[Interaktive Demo öffnen](../apps/roomwise/){.btn .btn-primary}
+
+
+## Enterprise Cloud Cost Optimization
+
+**Technologien:** Python, Pandas, DOcplex
+
+- Entwicklung eines Optimierungsprototyps zur Verbesserung von **Cloud-Ressourcennutzung und Betriebskosten** unter Berücksichtigung von Workloads, VM-Kapazitäten, Deadlines und SLA-Anforderungen.
+- Modellierung von Task Scheduling und VM-Zuweisung als beschränktes Optimierungsproblem sowie Bewertung verschiedener Scheduling-Entscheidungen anhand von Betriebs- und SLA-bezogenen Kennzahlen.
+- Entwicklung und Bewertung eines **Rolling-Horizon-Ansatzes** zum Vergleich verschiedener Scheduling-Strategien anhand von VM-Auslastung, SLA-Verletzungen und Gesamtbetriebskosten.
+
+
+## AI Infrastructure Startup Analysis — Schwarz Project Study
+
+**Tools:** Excel, Python, Pandas, Jupyter Notebook
+
+- Analyse und Klassifizierung europäischer Start-ups aus den Bereichen **AI Infrastructure, Cloud, DevOps und MLOps**, um potenziell relevante Unternehmen für Investments, Partnerschaften und strategisches Benchmarking zu identifizieren.
+- Strukturierung von Unternehmensdaten nach **Technologiebereich, Finanzierungsphase, Use Case und strategischer Relevanz** zur Unterstützung von Portfolio-Screening und vergleichender Analyse.
+- Einsatz von Python, Pandas und Jupyter Notebook zur ergänzenden Datenerhebung, -bereinigung und Analyse.

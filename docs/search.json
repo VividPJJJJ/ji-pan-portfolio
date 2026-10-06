@@ -4,35 +4,35 @@
     "href": "projects.html",
     "title": "Selected Projects",
     "section": "",
-    "text": "Tools: Python, Pandas, DOcplex\n\nDeveloped a prototype to optimise cloud-resource utilisation and operating costs, taking workloads, VM capacities, and SLA requirements into account.\nDeveloped and evaluated a rolling-horizon approach to compare scheduling strategies based on VM utilisation, SLA violations, and total operating costs."
+    "text": "Technologies: Vue 3, TypeScript, Kotlin, Ktor, PostgreSQL, ECharts\n\nDeveloped an interactive US crime analysis application featuring state-level mapping, city search, offense and time filters, trend analysis, seasonality analysis, and six-month baseline forecasting.\nImplemented a layered full-stack architecture with a Vue frontend, Kotlin/Ktor backend, and PostgreSQL-based data storage and caching.\nCombined interactive data visualisation with backend data processing to turn large-scale public crime data into an accessible analytical tool.\n\n\nPublic demo based on FBI crime datasets.\n\nLaunch Interactive Demo\nNote: The demo backend may take up to ~50 seconds to wake up on the first request. Please wait a moment if the initial load is slow."
   },
   {
-    "objectID": "projects.html#enterprise-cloud-cost-optimization",
-    "href": "projects.html#enterprise-cloud-cost-optimization",
+    "objectID": "projects.html#crime-atlas",
+    "href": "projects.html#crime-atlas",
     "title": "Selected Projects",
     "section": "",
-    "text": "Tools: Python, Pandas, DOcplex\n\nDeveloped a prototype to optimise cloud-resource utilisation and operating costs, taking workloads, VM capacities, and SLA requirements into account.\nDeveloped and evaluated a rolling-horizon approach to compare scheduling strategies based on VM utilisation, SLA violations, and total operating costs."
-  },
-  {
-    "objectID": "projects.html#ai-infrastructure-startup-analysis-schwarz-project-study",
-    "href": "projects.html#ai-infrastructure-startup-analysis-schwarz-project-study",
-    "title": "Selected Projects",
-    "section": "AI Infrastructure Startup Analysis — Schwarz Project Study",
-    "text": "AI Infrastructure Startup Analysis — Schwarz Project Study\nTools: Excel; Python, Pandas, and Jupyter Notebook for supplementary data collection and cleaning\n\nAnalysed and classified European start-ups in AI infrastructure, cloud, DevOps, and MLOps to identify companies potentially relevant for investments, partnerships, and internal benchmarking.\nStructured company data in Excel by technology area, funding stage, use case, and strategic relevance to support portfolio screening and further analysis."
+    "text": "Technologies: Vue 3, TypeScript, Kotlin, Ktor, PostgreSQL, ECharts\n\nDeveloped an interactive US crime analysis application featuring state-level mapping, city search, offense and time filters, trend analysis, seasonality analysis, and six-month baseline forecasting.\nImplemented a layered full-stack architecture with a Vue frontend, Kotlin/Ktor backend, and PostgreSQL-based data storage and caching.\nCombined interactive data visualisation with backend data processing to turn large-scale public crime data into an accessible analytical tool.\n\n\nPublic demo based on FBI crime datasets.\n\nLaunch Interactive Demo\nNote: The demo backend may take up to ~50 seconds to wake up on the first request. Please wait a moment if the initial load is slow."
   },
   {
     "objectID": "projects.html#ai-based-meeting-room-search-booking",
     "href": "projects.html#ai-based-meeting-room-search-booking",
     "title": "Selected Projects",
     "section": "AI-Based Meeting-Room Search & Booking",
-    "text": "AI-Based Meeting-Room Search & Booking\nTools: LLM applications, Python, JavaScript, Vue.js\n\nDeveloped an LLM-based prototype for meeting-room search and recommendation, translating natural-language requests into structured requirements such as capacity, equipment, location, and time.\nImplemented request interpretation, room matching, and booking logic in a working application prototype.\n\nLaunch Interactive Demo"
+    "text": "AI-Based Meeting-Room Search & Booking\nTechnologies: LLM applications, Python, JavaScript, Vue.js, REST APIs\n\nDeveloped an LLM-based application prototype that translates natural-language meeting-room requests into structured criteria such as capacity, equipment, location, and time.\nImplemented an end-to-end workflow covering request interpretation, room matching, recommendation, and booking logic.\nCombined LLM-based request understanding with application logic and API-based communication in a working prototype.\n\nLaunch Interactive Demo"
   },
   {
-    "objectID": "projects.html#crime-atlas",
-    "href": "projects.html#crime-atlas",
+    "objectID": "projects.html#enterprise-cloud-cost-optimization",
+    "href": "projects.html#enterprise-cloud-cost-optimization",
     "title": "Selected Projects",
-    "section": "Crime Atlas",
-    "text": "Crime Atlas\nTechnologies: Vue 3, TypeScript, Kotlin, Ktor, PostgreSQL, ECharts\n\nDeveloped an interactive US crime analysis prototype featuring state-level mapping, city search, offense and time filters, trend analysis, seasonality analysis, and six-month baseline forecasting.\nImplemented a layered full-stack architecture with a Vue frontend, Kotlin/Ktor backend, and PostgreSQL-based data storage and caching.\n\n\nThe public demo data based on FBI Databases\n\nLaunch Interactive Demo\nNote: All the demo backend may take up to ~50 seconds to wake up on the first request. Please wait a moment if the initial load is slow."
+    "section": "Enterprise Cloud Cost Optimization",
+    "text": "Enterprise Cloud Cost Optimization\nTechnologies: Python, Pandas, DOcplex\n\nDeveloped an optimization prototype to improve cloud-resource utilization and operating costs while considering workloads, VM capacities, deadlines, and SLA requirements.\nModelled task scheduling and VM allocation as a constrained optimization problem and evaluated different scheduling decisions using operational cost and SLA-related metrics.\nDeveloped and evaluated a rolling-horizon approach to compare scheduling strategies based on VM utilization, SLA violations, and total operating costs."
+  },
+  {
+    "objectID": "projects.html#ai-infrastructure-startup-analysis-schwarz-project-study",
+    "href": "projects.html#ai-infrastructure-startup-analysis-schwarz-project-study",
+    "title": "Selected Projects",
+    "section": "AI Infrastructure Startup Analysis — Schwarz Project Study",
+    "text": "AI Infrastructure Startup Analysis — Schwarz Project Study\nTools: Excel, Python, Pandas, Jupyter Notebook\n\nAnalysed and classified European start-ups across AI infrastructure, cloud, DevOps, and MLOps to identify companies potentially relevant for investment, partnerships, and strategic benchmarking.\nStructured company data by technology area, funding stage, use case, and strategic relevance to support portfolio screening and comparative analysis.\nUsed Python, Pandas, and Jupyter Notebook for supplementary data collection, cleaning, and analysis."
   },
   {
     "objectID": "experience.html",
@@ -165,28 +165,28 @@
     "href": "about.html",
     "title": "About Me",
     "section": "",
-    "text": "I am an M.Sc. student in Management and Digital Technology at the Technical University of Munich (TUM), Campus Heilbronn, with five years of professional experience in finance, controlling, business systems, and process digitalisation.\nMy practical experience spans Python, SQL, Power BI, and SAP, alongside applied AI and cloud projects. I focus on connecting business processes with data, automation, and modern digital technologies."
+    "text": "I am an M.Sc. student in Management and Digital Technology at the Technical University of Munich (TUM), Campus Heilbronn, with five years of professional experience across data analytics, process automation, digital business systems, and finance.\nMy hands-on experience includes Python, SQL, Power BI, JavaScript, REST APIs, UAT, SAP, and workflow automation, supported by applied projects in machine learning, LLM applications, and cloud optimization.\nMy focus is using data, automation, and technical tools to simplify complex business processes, improve system reliability, and create measurable impact."
   },
   {
     "objectID": "about.html#profile",
     "href": "about.html#profile",
     "title": "About Me",
     "section": "",
-    "text": "I am an M.Sc. student in Management and Digital Technology at the Technical University of Munich (TUM), Campus Heilbronn, with five years of professional experience in finance, controlling, business systems, and process digitalisation.\nMy practical experience spans Python, SQL, Power BI, and SAP, alongside applied AI and cloud projects. I focus on connecting business processes with data, automation, and modern digital technologies."
+    "text": "I am an M.Sc. student in Management and Digital Technology at the Technical University of Munich (TUM), Campus Heilbronn, with five years of professional experience across data analytics, process automation, digital business systems, and finance.\nMy hands-on experience includes Python, SQL, Power BI, JavaScript, REST APIs, UAT, SAP, and workflow automation, supported by applied projects in machine learning, LLM applications, and cloud optimization.\nMy focus is using data, automation, and technical tools to simplify complex business processes, improve system reliability, and create measurable impact."
   },
   {
     "objectID": "about.html#expertise",
     "href": "about.html#expertise",
     "title": "About Me",
     "section": "Expertise",
-    "text": "Expertise\n\nData & Analytics\nPython, SQL, Pandas, Power BI, DAX, and Excel Power Query.\n\n\nBusiness Systems & Digitalisation\nSAP, financial systems, requirements analysis, process modelling, user acceptance testing (UAT), and process digitalisation.\n\n\nAI & Automation\nLLM applications, Scikit-learn, AI coding tools, REST APIs, and JavaScript.\n\n\nCloud & DevOps\nDocker, AWS, Kubernetes, Terraform, Helm, and Linux."
+    "text": "Expertise\n\nData & Analytics\nPython, SQL, Pandas, Power BI, DAX, Excel Power Query, Excel VBA, and Jupyter Notebook.\n\n\nAutomation, Testing & Digital Systems\nProcess automation, requirements analysis, process modeling, user acceptance testing (UAT), REST APIs, SAP, and finance & business systems.\n\n\nAI & Technical Prototyping\nLLM applications, Scikit-learn, JavaScript, API-based workflows, and technical prototyping.\n\n\nCloud & DevOps\nLinux, Docker, AWS, Kubernetes, Terraform, and Helm."
   },
   {
     "objectID": "about.html#languages",
     "href": "about.html#languages",
     "title": "About Me",
     "section": "Languages",
-    "text": "Languages\n\nChinese: Native\nEnglish: C1\nGerman: B2"
+    "text": "Languages\n\nChinese: Native\nEnglish: C2\nGerman: C1"
   },
   {
     "objectID": "about.html#certifications",
@@ -200,35 +200,35 @@
     "href": "about.html#location-availability",
     "title": "About Me",
     "section": "Location & Availability",
-    "text": "Location & Availability\nBased in Heilbronn, Germany. Available for unrestricted full-time employment.\nExplore my experience View selected projects"
+    "text": "Location & Availability\nBased in Heilbronn, Germany. Eligible for unrestricted full-time employment.\nExplore my experience View selected projects"
   },
   {
     "objectID": "de/about.html",
     "href": "de/about.html",
     "title": "Über mich",
     "section": "",
-    "text": "Ich bin M.Sc.-Studentin im Studiengang Management and Digital Technology an der Technischen Universität München (TUM), Campus Heilbronn, mit fünf Jahren Berufserfahrung in Finance, Controlling, Geschäftssystemen und Prozessdigitalisierung.\nIch verfüge über Praxiserfahrung mit Python, SQL, Power BI und SAP sowie mit anwendungsorientierten KI- und Cloud-Projekten. Mein Schwerpunkt liegt auf der Verbindung von Geschäftsprozessen mit Daten, Automatisierung und modernen digitalen Technologien."
+    "text": "Ich bin M.Sc.-Studentin im Studiengang Management and Digital Technology an der Technischen Universität München (TUM), Campus Heilbronn und verfüge über fünf Jahre Berufserfahrung in Datenanalyse, Prozessautomatisierung, digitalen Geschäftssystemen und Finance.\nMeine Praxiserfahrung umfasst Python, SQL, Power BI, JavaScript, REST APIs, UAT, SAP und Workflow-Automatisierung. Ergänzt wird dies durch anwendungsorientierte Projekte in Machine Learning, LLM-Anwendungen und Cloud-Optimierung.\nMein Schwerpunkt liegt darauf, mit Daten, Automatisierung und technischen Tools komplexe Geschäftsprozesse zu vereinfachen, die Systemzuverlässigkeit zu verbessern und messbare Ergebnisse zu erzielen."
   },
   {
     "objectID": "de/about.html#profil",
     "href": "de/about.html#profil",
     "title": "Über mich",
     "section": "",
-    "text": "Ich bin M.Sc.-Studentin im Studiengang Management and Digital Technology an der Technischen Universität München (TUM), Campus Heilbronn, mit fünf Jahren Berufserfahrung in Finance, Controlling, Geschäftssystemen und Prozessdigitalisierung.\nIch verfüge über Praxiserfahrung mit Python, SQL, Power BI und SAP sowie mit anwendungsorientierten KI- und Cloud-Projekten. Mein Schwerpunkt liegt auf der Verbindung von Geschäftsprozessen mit Daten, Automatisierung und modernen digitalen Technologien."
+    "text": "Ich bin M.Sc.-Studentin im Studiengang Management and Digital Technology an der Technischen Universität München (TUM), Campus Heilbronn und verfüge über fünf Jahre Berufserfahrung in Datenanalyse, Prozessautomatisierung, digitalen Geschäftssystemen und Finance.\nMeine Praxiserfahrung umfasst Python, SQL, Power BI, JavaScript, REST APIs, UAT, SAP und Workflow-Automatisierung. Ergänzt wird dies durch anwendungsorientierte Projekte in Machine Learning, LLM-Anwendungen und Cloud-Optimierung.\nMein Schwerpunkt liegt darauf, mit Daten, Automatisierung und technischen Tools komplexe Geschäftsprozesse zu vereinfachen, die Systemzuverlässigkeit zu verbessern und messbare Ergebnisse zu erzielen."
   },
   {
     "objectID": "de/about.html#kenntnisse",
     "href": "de/about.html#kenntnisse",
     "title": "Über mich",
     "section": "Kenntnisse",
-    "text": "Kenntnisse\n\nData & Analytics\nPython, SQL, Pandas, Power BI, DAX und Excel Power Query.\n\n\nGeschäftssysteme & Digitalisierung\nSAP, Finanzsysteme, Anforderungsanalyse, Prozessmodellierung, User Acceptance Testing (UAT) und Prozessdigitalisierung.\n\n\nKI & Automatisierung\nLLM-Anwendungen, Scikit-learn, KI-Coding-Tools, REST APIs und JavaScript.\n\n\nCloud & DevOps\nDocker, AWS, Kubernetes, Terraform, Helm und Linux."
+    "text": "Kenntnisse\n\nData & Analytics\nPython, SQL, Pandas, Power BI, DAX, Excel Power Query, Excel VBA und Jupyter Notebook.\n\n\nAutomatisierung, Testing & Digitale Systeme\nProzessautomatisierung, Anforderungsanalyse, Prozessmodellierung, User Acceptance Testing (UAT), REST APIs, SAP sowie Finanz- und Geschäftssysteme.\n\n\nKI & Technische Prototypen\nLLM-Anwendungen, Scikit-learn, JavaScript, API-basierte Workflows und technische Prototypen.\n\n\nCloud & DevOps\nLinux, Docker, AWS, Kubernetes, Terraform und Helm."
   },
   {
     "objectID": "de/about.html#sprachen",
     "href": "de/about.html#sprachen",
     "title": "Über mich",
     "section": "Sprachen",
-    "text": "Sprachen\n\nChinesisch: Muttersprache\nEnglisch: C1\nDeutsch: B2"
+    "text": "Sprachen\n\nChinesisch: Muttersprache\nEnglisch: C2\nDeutsch: C1"
   },
   {
     "objectID": "de/about.html#zertifikate",
@@ -277,35 +277,35 @@
     "href": "de/projects.html",
     "title": "Ausgewählte Projekte",
     "section": "",
-    "text": "Technologien: Python, Pandas, DOcplex\n\nEntwicklung eines Prototyps zur Optimierung von Cloud-Ressourcennutzung und Betriebskosten unter Berücksichtigung von Workloads, VM-Kapazitäten und SLA-Anforderungen.\nEntwicklung und Bewertung eines Rolling-Horizon-Ansatzes zum Vergleich verschiedener Scheduling-Strategien anhand von VM-Auslastung, SLA-Verletzungen und Gesamtbetriebskosten."
+    "text": "Technologien: Vue 3, TypeScript, Kotlin, Ktor, PostgreSQL, ECharts\n\nEntwicklung einer interaktiven Anwendung zur Analyse von US-Kriminalitätsdaten mit Bundesstaatenkarte, Stadtsuche, Delikt- und Zeitfiltern, Trendanalyse, Saisonalitätsanalyse und sechsmonatiger Basisprognose.\nUmsetzung einer mehrschichtigen Full-Stack-Architektur mit Vue-Frontend, Kotlin/Ktor-Backend sowie PostgreSQL-basierter Datenspeicherung und Caching.\nVerbindung interaktiver Datenvisualisierung mit Backend-Datenverarbeitung, um umfangreiche öffentliche Kriminalitätsdaten in einem leicht zugänglichen Analysetool nutzbar zu machen.\n\n\nÖffentliche Demo auf Basis von FBI-Kriminalitätsdaten.\n\nInteraktive Demo öffnen\nHinweis: Das Demo-Backend benötigt beim ersten Aufruf möglicherweise bis zu etwa 50 Sekunden zum Starten. Bitte warten Sie einen Moment, falls das erste Laden etwas länger dauert."
+  },
+  {
+    "objectID": "de/projects.html#crime-atlas",
+    "href": "de/projects.html#crime-atlas",
+    "title": "Ausgewählte Projekte",
+    "section": "",
+    "text": "Technologien: Vue 3, TypeScript, Kotlin, Ktor, PostgreSQL, ECharts\n\nEntwicklung einer interaktiven Anwendung zur Analyse von US-Kriminalitätsdaten mit Bundesstaatenkarte, Stadtsuche, Delikt- und Zeitfiltern, Trendanalyse, Saisonalitätsanalyse und sechsmonatiger Basisprognose.\nUmsetzung einer mehrschichtigen Full-Stack-Architektur mit Vue-Frontend, Kotlin/Ktor-Backend sowie PostgreSQL-basierter Datenspeicherung und Caching.\nVerbindung interaktiver Datenvisualisierung mit Backend-Datenverarbeitung, um umfangreiche öffentliche Kriminalitätsdaten in einem leicht zugänglichen Analysetool nutzbar zu machen.\n\n\nÖffentliche Demo auf Basis von FBI-Kriminalitätsdaten.\n\nInteraktive Demo öffnen\nHinweis: Das Demo-Backend benötigt beim ersten Aufruf möglicherweise bis zu etwa 50 Sekunden zum Starten. Bitte warten Sie einen Moment, falls das erste Laden etwas länger dauert."
+  },
+  {
+    "objectID": "de/projects.html#ki-basierte-meetingraum-suche-und--buchung",
+    "href": "de/projects.html#ki-basierte-meetingraum-suche-und--buchung",
+    "title": "Ausgewählte Projekte",
+    "section": "KI-basierte Meetingraum-Suche und -Buchung",
+    "text": "KI-basierte Meetingraum-Suche und -Buchung\nTechnologien: LLM-Anwendungen, Python, JavaScript, Vue.js, REST APIs\n\nEntwicklung eines LLM-basierten Anwendungsprototyps, der natürlichsprachliche Meetingraum-Anfragen in strukturierte Kriterien wie Kapazität, Ausstattung, Standort und Zeit übersetzt.\nUmsetzung eines End-to-End-Workflows für Anfrageinterpretation, Raum-Matching, Empfehlung und Buchungslogik.\nVerbindung LLM-basierter Anfrageverarbeitung mit Anwendungslogik und API-basierter Kommunikation in einem funktionsfähigen Prototyp.\n\nInteraktive Demo öffnen"
   },
   {
     "objectID": "de/projects.html#enterprise-cloud-cost-optimization",
     "href": "de/projects.html#enterprise-cloud-cost-optimization",
     "title": "Ausgewählte Projekte",
-    "section": "",
-    "text": "Technologien: Python, Pandas, DOcplex\n\nEntwicklung eines Prototyps zur Optimierung von Cloud-Ressourcennutzung und Betriebskosten unter Berücksichtigung von Workloads, VM-Kapazitäten und SLA-Anforderungen.\nEntwicklung und Bewertung eines Rolling-Horizon-Ansatzes zum Vergleich verschiedener Scheduling-Strategien anhand von VM-Auslastung, SLA-Verletzungen und Gesamtbetriebskosten."
+    "section": "Enterprise Cloud Cost Optimization",
+    "text": "Enterprise Cloud Cost Optimization\nTechnologien: Python, Pandas, DOcplex\n\nEntwicklung eines Optimierungsprototyps zur Verbesserung von Cloud-Ressourcennutzung und Betriebskosten unter Berücksichtigung von Workloads, VM-Kapazitäten, Deadlines und SLA-Anforderungen.\nModellierung von Task Scheduling und VM-Zuweisung als beschränktes Optimierungsproblem sowie Bewertung verschiedener Scheduling-Entscheidungen anhand von Betriebs- und SLA-bezogenen Kennzahlen.\nEntwicklung und Bewertung eines Rolling-Horizon-Ansatzes zum Vergleich verschiedener Scheduling-Strategien anhand von VM-Auslastung, SLA-Verletzungen und Gesamtbetriebskosten."
   },
   {
     "objectID": "de/projects.html#ai-infrastructure-startup-analysis-schwarz-project-study",
     "href": "de/projects.html#ai-infrastructure-startup-analysis-schwarz-project-study",
     "title": "Ausgewählte Projekte",
     "section": "AI Infrastructure Startup Analysis — Schwarz Project Study",
-    "text": "AI Infrastructure Startup Analysis — Schwarz Project Study\nTechnologien: Excel; ergänzend Python, Pandas und Jupyter Notebook zur Datenerhebung und -bereinigung\n\nAnalyse und Klassifizierung europäischer Start-ups aus den Bereichen AI Infrastructure, Cloud, DevOps und MLOps; Identifikation potenziell relevanter Unternehmen für Investments, Partnerschaften und internes Benchmarking.\nStrukturierung und Aufbereitung von Unternehmensdaten in Excel nach Technologiebereich, Finanzierungsphase, Use Case und strategischer Relevanz zur Unterstützung des Portfolio-Screenings und der weiteren Analyse."
-  },
-  {
-    "objectID": "de/projects.html#ki-basiertes-system-zur-meetingraum-suche-und--buchung",
-    "href": "de/projects.html#ki-basiertes-system-zur-meetingraum-suche-und--buchung",
-    "title": "Ausgewählte Projekte",
-    "section": "KI-basiertes System zur Meetingraum-Suche und -Buchung",
-    "text": "KI-basiertes System zur Meetingraum-Suche und -Buchung\nTechnologien: LLM-Anwendungen, Python, JavaScript, Vue.js\n\nEntwicklung eines LLM-basierten Prototyps zur Suche und Empfehlung von Meetingräumen, der natürlichsprachliche Nutzeranfragen in strukturierte Anforderungen wie Kapazität, Ausstattung, Standort und Zeit übersetzt.\nUmsetzung des Anwendungsablaufs einschließlich Anfrageinterpretation, Raum-Matching und Buchungslogik in einem funktionsfähigen Prototyp.\n\nInteraktive Demo öffnen"
-  },
-  {
-    "objectID": "de/projects.html#crime-atlas",
-    "href": "de/projects.html#crime-atlas",
-    "title": "Ausgewählte Projekte",
-    "section": "Crime Atlas",
-    "text": "Crime Atlas\nTechnologien: Vue 3, TypeScript, Kotlin, Ktor, PostgreSQL, ECharts\n\nEntwicklung eines interaktiven Prototyps zur Analyse von US-Kriminalitätsdaten mit Bundesstaatenkarte, Stadtsuche, Delikt- und Zeitfiltern, Trendanalyse, Saisonalität und Prognose.\nUmsetzung einer mehrschichtigen Architektur mit Vue-Frontend, Kotlin/Ktor-Backend und PostgreSQL-basiertem Datenspeicher.\n\nInteraktive Demo öffnen\nHinweis: Alles Demo-Backend benötigt beim ersten Aufruf möglicherweise bis zu etwa 50 Sekunden zum Starten. Bitte warten Sie einen Moment, falls das erste Laden etwas länger dauert."
+    "text": "AI Infrastructure Startup Analysis — Schwarz Project Study\nTools: Excel, Python, Pandas, Jupyter Notebook\n\nAnalyse und Klassifizierung europäischer Start-ups aus den Bereichen AI Infrastructure, Cloud, DevOps und MLOps, um potenziell relevante Unternehmen für Investments, Partnerschaften und strategisches Benchmarking zu identifizieren.\nStrukturierung von Unternehmensdaten nach Technologiebereich, Finanzierungsphase, Use Case und strategischer Relevanz zur Unterstützung von Portfolio-Screening und vergleichender Analyse.\nEinsatz von Python, Pandas und Jupyter Notebook zur ergänzenden Datenerhebung, -bereinigung und Analyse."
   },
   {
     "objectID": "index.html",

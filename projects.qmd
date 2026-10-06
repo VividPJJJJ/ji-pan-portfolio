@@ -1,40 +1,47 @@
 ---
 title: "Selected Projects"
-description: "Applied projects in cloud optimisation, AI infrastructure, and LLM applications"
+description: "Selected projects in software development, AI applications, data analytics, automation, and cloud optimization"
 ---
-
-## Enterprise Cloud Cost Optimization
-
-**Tools:** Python, Pandas, DOcplex
-
-- Developed a prototype to optimise cloud-resource utilisation and operating costs, taking workloads, VM capacities, and SLA requirements into account.
-- Developed and evaluated a rolling-horizon approach to compare scheduling strategies based on VM utilisation, SLA violations, and total operating costs.
-
-## AI Infrastructure Startup Analysis — Schwarz Project Study
-
-**Tools:** Excel; Python, Pandas, and Jupyter Notebook for supplementary data collection and cleaning
-
-- Analysed and classified European start-ups in AI infrastructure, cloud, DevOps, and MLOps to identify companies potentially relevant for investments, partnerships, and internal benchmarking.
-- Structured company data in Excel by technology area, funding stage, use case, and strategic relevance to support portfolio screening and further analysis.
-
-## AI-Based Meeting-Room Search & Booking
-
-**Tools:** LLM applications, Python, JavaScript, Vue.js
-
-- Developed an LLM-based prototype for meeting-room search and recommendation, translating natural-language requests into structured requirements such as capacity, equipment, location, and time.
-- Implemented request interpretation, room matching, and booking logic in a working application prototype.
-
-[Launch Interactive Demo](apps/roomwise/){.btn .btn-primary}
 
 ## Crime Atlas
 
 **Technologies:** Vue 3, TypeScript, Kotlin, Ktor, PostgreSQL, ECharts
 
-- Developed an interactive US crime analysis prototype featuring state-level mapping, city search, offense and time filters, trend analysis, seasonality analysis, and six-month baseline forecasting.
-- Implemented a layered full-stack architecture with a Vue frontend, Kotlin/Ktor backend, and PostgreSQL-based data storage and caching.
+- Developed an interactive US crime analysis application featuring **state-level mapping, city search, offense and time filters, trend analysis, seasonality analysis, and six-month baseline forecasting**.
+- Implemented a **layered full-stack architecture** with a Vue frontend, Kotlin/Ktor backend, and PostgreSQL-based data storage and caching.
+- Combined interactive data visualisation with backend data processing to turn large-scale public crime data into an accessible analytical tool.
 
-> The public demo data based on FBI Databases
+> Public demo based on FBI crime datasets.
 
 [Launch Interactive Demo](apps/crime-atlas/){.btn .btn-primary}
 
-**Note:** All the demo backend may take up to ~50 seconds to wake up on the first request. Please wait a moment if the initial load is slow.
+**Note:** The demo backend may take up to ~50 seconds to wake up on the first request. Please wait a moment if the initial load is slow.
+
+
+## AI-Based Meeting-Room Search & Booking
+
+**Technologies:** LLM applications, Python, JavaScript, Vue.js, REST APIs
+
+- Developed an **LLM-based application prototype** that translates natural-language meeting-room requests into structured criteria such as capacity, equipment, location, and time.
+- Implemented an end-to-end workflow covering **request interpretation, room matching, recommendation, and booking logic**.
+- Combined LLM-based request understanding with application logic and API-based communication in a working prototype.
+
+[Launch Interactive Demo](apps/roomwise/){.btn .btn-primary}
+
+
+## Enterprise Cloud Cost Optimization
+
+**Technologies:** Python, Pandas, DOcplex
+
+- Developed an optimization prototype to improve **cloud-resource utilization and operating costs** while considering workloads, VM capacities, deadlines, and SLA requirements.
+- Modelled task scheduling and VM allocation as a constrained optimization problem and evaluated different scheduling decisions using operational cost and SLA-related metrics.
+- Developed and evaluated a **rolling-horizon approach** to compare scheduling strategies based on VM utilization, SLA violations, and total operating costs.
+
+
+## AI Infrastructure Startup Analysis — Schwarz Project Study
+
+**Tools:** Excel, Python, Pandas, Jupyter Notebook
+
+- Analysed and classified European start-ups across **AI infrastructure, cloud, DevOps, and MLOps** to identify companies potentially relevant for investment, partnerships, and strategic benchmarking.
+- Structured company data by **technology area, funding stage, use case, and strategic relevance** to support portfolio screening and comparative analysis.
+- Used Python, Pandas, and Jupyter Notebook for supplementary data collection, cleaning, and analysis.

@@ -6,7 +6,7 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="description" content="Applied projects in cloud optimisation, AI infrastructure, and LLM applications">
+<meta name="description" content="Selected projects in software development, AI applications, data analytics, automation, and cloud optimization">
 
 <title>Selected Projects – Ji Pan</title>
 <style>
@@ -147,10 +147,10 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#enterprise-cloud-cost-optimization" id="toc-enterprise-cloud-cost-optimization" class="nav-link active" data-scroll-target="#enterprise-cloud-cost-optimization">Enterprise Cloud Cost Optimization</a></li>
-  <li><a href="#ai-infrastructure-startup-analysis-schwarz-project-study" id="toc-ai-infrastructure-startup-analysis-schwarz-project-study" class="nav-link" data-scroll-target="#ai-infrastructure-startup-analysis-schwarz-project-study">AI Infrastructure Startup Analysis — Schwarz Project Study</a></li>
+  <li><a href="#crime-atlas" id="toc-crime-atlas" class="nav-link active" data-scroll-target="#crime-atlas">Crime Atlas</a></li>
   <li><a href="#ai-based-meeting-room-search-booking" id="toc-ai-based-meeting-room-search-booking" class="nav-link" data-scroll-target="#ai-based-meeting-room-search-booking">AI-Based Meeting-Room Search &amp; Booking</a></li>
-  <li><a href="#crime-atlas" id="toc-crime-atlas" class="nav-link" data-scroll-target="#crime-atlas">Crime Atlas</a></li>
+  <li><a href="#enterprise-cloud-cost-optimization" id="toc-enterprise-cloud-cost-optimization" class="nav-link" data-scroll-target="#enterprise-cloud-cost-optimization">Enterprise Cloud Cost Optimization</a></li>
+  <li><a href="#ai-infrastructure-startup-analysis-schwarz-project-study" id="toc-ai-infrastructure-startup-analysis-schwarz-project-study" class="nav-link" data-scroll-target="#ai-infrastructure-startup-analysis-schwarz-project-study">AI Infrastructure Startup Analysis — Schwarz Project Study</a></li>
   </ul>
 </nav>
     </div>
@@ -164,7 +164,7 @@ ul.task-list li input[type="checkbox"] {
 
 <div>
   <div class="description">
-    Applied projects in cloud optimisation, AI infrastructure, and LLM applications
+    Selected projects in software development, AI applications, data analytics, automation, and cloud optimization
   </div>
 </div>
 
@@ -181,43 +181,47 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<section id="enterprise-cloud-cost-optimization" class="level2">
-<h2 class="anchored" data-anchor-id="enterprise-cloud-cost-optimization">Enterprise Cloud Cost Optimization</h2>
-<p><strong>Tools:</strong> Python, Pandas, DOcplex</p>
-<ul>
-<li>Developed a prototype to optimise cloud-resource utilisation and operating costs, taking workloads, VM capacities, and SLA requirements into account.</li>
-<li>Developed and evaluated a rolling-horizon approach to compare scheduling strategies based on VM utilisation, SLA violations, and total operating costs.</li>
-</ul>
-</section>
-<section id="ai-infrastructure-startup-analysis-schwarz-project-study" class="level2">
-<h2 class="anchored" data-anchor-id="ai-infrastructure-startup-analysis-schwarz-project-study">AI Infrastructure Startup Analysis — Schwarz Project Study</h2>
-<p><strong>Tools:</strong> Excel; Python, Pandas, and Jupyter Notebook for supplementary data collection and cleaning</p>
-<ul>
-<li>Analysed and classified European start-ups in AI infrastructure, cloud, DevOps, and MLOps to identify companies potentially relevant for investments, partnerships, and internal benchmarking.</li>
-<li>Structured company data in Excel by technology area, funding stage, use case, and strategic relevance to support portfolio screening and further analysis.</li>
-</ul>
-</section>
-<section id="ai-based-meeting-room-search-booking" class="level2">
-<h2 class="anchored" data-anchor-id="ai-based-meeting-room-search-booking">AI-Based Meeting-Room Search &amp; Booking</h2>
-<p><strong>Tools:</strong> LLM applications, Python, JavaScript, Vue.js</p>
-<ul>
-<li>Developed an LLM-based prototype for meeting-room search and recommendation, translating natural-language requests into structured requirements such as capacity, equipment, location, and time.</li>
-<li>Implemented request interpretation, room matching, and booking logic in a working application prototype.</li>
-</ul>
-<p><a href="apps/roomwise/" class="btn btn-primary">Launch Interactive Demo</a></p>
-</section>
 <section id="crime-atlas" class="level2">
 <h2 class="anchored" data-anchor-id="crime-atlas">Crime Atlas</h2>
 <p><strong>Technologies:</strong> Vue 3, TypeScript, Kotlin, Ktor, PostgreSQL, ECharts</p>
 <ul>
-<li>Developed an interactive US crime analysis prototype featuring state-level mapping, city search, offense and time filters, trend analysis, seasonality analysis, and six-month baseline forecasting.</li>
-<li>Implemented a layered full-stack architecture with a Vue frontend, Kotlin/Ktor backend, and PostgreSQL-based data storage and caching.</li>
+<li>Developed an interactive US crime analysis application featuring <strong>state-level mapping, city search, offense and time filters, trend analysis, seasonality analysis, and six-month baseline forecasting</strong>.</li>
+<li>Implemented a <strong>layered full-stack architecture</strong> with a Vue frontend, Kotlin/Ktor backend, and PostgreSQL-based data storage and caching.</li>
+<li>Combined interactive data visualisation with backend data processing to turn large-scale public crime data into an accessible analytical tool.</li>
 </ul>
 <blockquote class="blockquote">
-<p>The public demo data based on FBI Databases</p>
+<p>Public demo based on FBI crime datasets.</p>
 </blockquote>
 <p><a href="apps/crime-atlas/" class="btn btn-primary">Launch Interactive Demo</a></p>
-<p><strong>Note:</strong> All the demo backend may take up to ~50 seconds to wake up on the first request. Please wait a moment if the initial load is slow.</p>
+<p><strong>Note:</strong> The demo backend may take up to ~50 seconds to wake up on the first request. Please wait a moment if the initial load is slow.</p>
+</section>
+<section id="ai-based-meeting-room-search-booking" class="level2">
+<h2 class="anchored" data-anchor-id="ai-based-meeting-room-search-booking">AI-Based Meeting-Room Search &amp; Booking</h2>
+<p><strong>Technologies:</strong> LLM applications, Python, JavaScript, Vue.js, REST APIs</p>
+<ul>
+<li>Developed an <strong>LLM-based application prototype</strong> that translates natural-language meeting-room requests into structured criteria such as capacity, equipment, location, and time.</li>
+<li>Implemented an end-to-end workflow covering <strong>request interpretation, room matching, recommendation, and booking logic</strong>.</li>
+<li>Combined LLM-based request understanding with application logic and API-based communication in a working prototype.</li>
+</ul>
+<p><a href="apps/roomwise/" class="btn btn-primary">Launch Interactive Demo</a></p>
+</section>
+<section id="enterprise-cloud-cost-optimization" class="level2">
+<h2 class="anchored" data-anchor-id="enterprise-cloud-cost-optimization">Enterprise Cloud Cost Optimization</h2>
+<p><strong>Technologies:</strong> Python, Pandas, DOcplex</p>
+<ul>
+<li>Developed an optimization prototype to improve <strong>cloud-resource utilization and operating costs</strong> while considering workloads, VM capacities, deadlines, and SLA requirements.</li>
+<li>Modelled task scheduling and VM allocation as a constrained optimization problem and evaluated different scheduling decisions using operational cost and SLA-related metrics.</li>
+<li>Developed and evaluated a <strong>rolling-horizon approach</strong> to compare scheduling strategies based on VM utilization, SLA violations, and total operating costs.</li>
+</ul>
+</section>
+<section id="ai-infrastructure-startup-analysis-schwarz-project-study" class="level2">
+<h2 class="anchored" data-anchor-id="ai-infrastructure-startup-analysis-schwarz-project-study">AI Infrastructure Startup Analysis — Schwarz Project Study</h2>
+<p><strong>Tools:</strong> Excel, Python, Pandas, Jupyter Notebook</p>
+<ul>
+<li>Analysed and classified European start-ups across <strong>AI infrastructure, cloud, DevOps, and MLOps</strong> to identify companies potentially relevant for investment, partnerships, and strategic benchmarking.</li>
+<li>Structured company data by <strong>technology area, funding stage, use case, and strategic relevance</strong> to support portfolio screening and comparative analysis.</li>
+<li>Used Python, Pandas, and Jupyter Notebook for supplementary data collection, cleaning, and analysis.</li>
+</ul>
 
 
 </section>
