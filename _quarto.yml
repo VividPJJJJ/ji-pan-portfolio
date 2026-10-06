@@ -23,8 +23,7 @@ website:
         text: Experience
       - href: projects.qmd
         text: Projects
-      - href: cv.qmd
-        text: CV
+
     right:
       - href: /index.qmd
         text: English
