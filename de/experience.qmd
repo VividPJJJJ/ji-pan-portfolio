@@ -1,6 +1,6 @@
 ---
 title: "Berufserfahrung"
-description: "Berufserfahrung und Ausbildung in Finance, Datenanalyse und digitalen Technologien"
+description: "Berufserfahrung in Datenanalyse, Prozessautomatisierung, digitalen Systemen und Finance"
 ---
 
 ## Berufserfahrung
@@ -10,29 +10,33 @@ description: "Berufserfahrung und Ausbildung in Finance, Datenanalyse und digita
 **Praktikantin / Werkstudentin — Supply Chain Strategy & Data Analytics**\
 Sindelfingen, Deutschland · Oktober 2025 – September 2026
 
-- Bereinigung, Validierung, Aggregation und Analyse internationaler CKD-Produktionsdaten mit Python, Pandas, Jupyter Notebook und Excel Power Query für **8 Länder, mehr als 10 Werke, über 100 operative KPIs und mehr als 10.000 KPI-Datensätze pro Monat**.
-- Erstellung und Pflege von Power-BI-Dashboards mit Länder-, Werk-, Zeit- und KPI-Dimensionen zur Verbesserung der Transparenz im Management-Reporting und zur Reduzierung manueller Konsolidierungsaufwände.
-- Zusammenarbeit mit internationalen Stakeholdern zur Standardisierung von KPI-Definitionen, Übersetzung fachlicher Anforderungen in messbare Kennzahlen und Unterstützung datenbasierter Entscheidungen.
+- Entwicklung eines **Excel-VBA-Makrotools** zur Automatisierung wiederkehrender Reporting-Prozesse; dadurch **Reduzierung manueller Arbeitsschritte und Eingabefehler**.
+- Analyse, Bereinigung, Validierung und Aggregation internationaler CKD-Produktionsdaten mit **Python, Pandas, Jupyter Notebook und Excel Power Query** für **8 Länder, mehr als 10 Werke, über 100 operative KPIs und mehr als 10.000 KPI-Datensätze pro Monat**.
+- Entwicklung und Pflege von **Power-BI-Dashboards** sowie Standardisierung von KPI-Strukturen zur Verbesserung von Reporting-Transparenz und Datenkonsistenz.
+- Übersetzung fachlicher Anforderungen in **messbare KPIs, strukturierte Datenmodelle und wiederholbare Reporting-Prozesse** in Zusammenarbeit mit internationalen Stakeholdern.
 
 ### Jibangbang Technology Co., Ltd
 
-**Financial Controller**\
+**Financial Controller — Finance Systems & Process Digitalization**\
 Hangzhou, China · September 2022 – April 2025
 
-- Verantwortung für Konzeption und Einführung eines Financial-Shared-Services-Systems einschließlich Anforderungsanalyse, Prozessmodellierung, UAT und Produktivsetzung innerhalb eines Jahres für **mehr als 10.000 kleine Unternehmenskunden**.
-- Digitalisierung von Budgetierungs-, Genehmigungs-, Erstattungs-, Buchhaltungs-, Abstimmungs- und Management-Reporting-Prozessen; Reduzierung manueller Eingaben und Offline-Prozesse um **mehr als 50 %**.
-- Einsatz von SQL, Python, Excel VBA und Power Query für Finanzdatenanalyse, Forecasting und Prozessoptimierung mit einer **Prognosegenauigkeit von über 95 %**.
+- Konzeption und Einführung eines **Financial-Shared-Services-Systems** inklusive **Anforderungsanalyse, Prozessmodellierung, UAT und Produktivsetzung** für **mehr als 10.000 Unternehmenskunden**.
+- Durchführung von **User Acceptance Tests und Validierung digitaler Workflows** in Budgetierung, Genehmigung, Erstattung, Buchhaltung, Abstimmung und Management Reporting.
+- Digitalisierung und Automatisierung von Geschäftsprozessen; Reduzierung **manueller Eingaben und Offline-Prozesse um mehr als 50 %**.
+- Einsatz von **SQL, Python, Excel VBA und Power Query** zur Automatisierung wiederkehrender Datenprozesse, Unterstützung des Forecastings und Verbesserung der Prozesszuverlässigkeit.
+- Entwicklung datenbasierter Forecasting- und Analyseansätze mit einer **Prognosegenauigkeit von über 95 %**.
+- Übersetzung fachlicher Anforderungen in **digitale Prozess- und Systemlösungen** in Zusammenarbeit mit Fachbereichen und technischen Ansprechpartnern.
 
 ### Lvdu Real Estate Group Co., Ltd.
 
 **Senior Financial Supervisor**\
 Hangzhou, China · November 2019 – September 2022
 
-- Nutzung von SAP-Finanz- und Geschäftssystemen für Buchhaltung, Budgetierung, Kostencontrolling, Abstimmungen und Management-Reporting in mehreren Gesellschaften.
-- Verantwortung für Budgetierung, Finanzreporting und Business-Analysen, einschließlich Abweichungsanalysen, Kostenstrukturanalysen und Cashflow-Monitoring.
-- Koordination von Finanz-, Steuer- und Compliance-Prozessen mit der Zentrale, Geschäftsbereichen und externen Institutionen.
+- Nutzung von **SAP-Finanz- und Geschäftssystemen** für Budgetierung, Controlling, Reporting, Abstimmungen und Datenanalysen in mehreren Gesellschaften.
+- Durchführung von **Budget-, Abweichungs-, Kostenstruktur- und Cashflow-Analysen** zur Unterstützung operativer und strategischer Entscheidungen.
+- Koordination von Finanz-, Steuer- und Compliance-Prozessen mit Zentrale, Geschäftsbereichen und externen Institutionen.
 
-## Ausbildung
+## Studium
 
 ### Technische Universität München (TUM)
 
@@ -49,4 +53,4 @@ Hangzhou, China · September 2016 – Juni 2020
 - Certified Management Accountant (CMA), IMA
 - Intermediate Accounting Professional Qualification, China
 
-[Meine Projekte entdecken](projects.qmd){.btn .btn-outline-primary}
+[Meine Projekte ansehen](projects.qmd){.btn .btn-outline-primary}

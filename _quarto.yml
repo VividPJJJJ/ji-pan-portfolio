@@ -1,34 +1,43 @@
 project:
   type: website
   output-dir: docs
+
   render:
     - "*.qmd"
     - "de/*.qmd"
+
   post-render:
     - "python3 scripts/localize.py"
+
   resources:
     - assets/**
     - apps/**
 
 website:
   title: "Ji Pan"
-  description: "Business & Data Analytics Portfolio"
+  description: "Data, Automation & Technical Solutions Portfolio"
+
   navbar:
     left:
       - href: index.qmd
         text: Home
+
       - href: about.qmd
         text: About
+
       - href: experience.qmd
         text: Experience
+
       - href: projects.qmd
         text: Projects
 
     right:
       - href: /index.qmd
         text: English
+
       - href: /de/index.qmd
         text: Deutsch
+
       - icon: envelope
         href: "mailto:panj5487666@gmail.com"
         aria-label: Email
