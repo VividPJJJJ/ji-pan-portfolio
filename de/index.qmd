@@ -1,7 +1,7 @@
 ---
 title: ""
 pagetitle: "Ji Pan"
-description: "Finance, Controlling, Datenanalyse und digitale Technologien"
+description: "Daten, Automatisierung, digitale Systeme und technische Lösungen"
 toc: false
 page-layout: full
 ---
@@ -10,23 +10,22 @@ page-layout: full
 
 # Ji Pan
 
-## Finance, Data & Digital Technology
+## Data, Automation & Technical Solutions
 
-Controlling · Data Analytics · Geschäftssysteme · Prozessdigitalisierung
+Datenanalyse · Prozessautomatisierung · Geschäftssysteme · QA & technische Prototypen
 
-Ich verbinde fünf Jahre Berufserfahrung in Finance und Controlling mit Praxiserfahrung in Datenanalyse, Geschäftssystemen sowie anwendungsorientierten KI- und Cloud-Projekten.
+Ich verbinde fünf Jahre Berufs- und Finance-Erfahrung mit praktischer Arbeit in Datenanalyse, Prozessautomatisierung, digitalen Systemen und technischen Prototypen.
 
 [Berufserfahrung](experience.qmd){.btn .btn-primary .btn-lg}
 [Projekte entdecken](projects.qmd){.btn .btn-outline-primary .btn-lg}
-[Lebenslauf (Deutsch, PDF)](../assets/cv/Ji_Pan_CV_DE.pdf){.btn .btn-outline-secondary .btn-lg target="_blank"}
 
 :::
 
 ## Profil
 
-Ich studiere **Management and Digital Technology (M.Sc.) an der Technischen Universität München, Campus Heilbronn**. Meine Berufserfahrung umfasst Supply Chain Strategy & Data Analytics bei Mercedes-Benz sowie Finance, Controlling und die Einführung digitaler Geschäftssysteme.
+Ich studiere **Management and Digital Technology (M.Sc.) an der Technischen Universität München, Campus Heilbronn**. Meine Erfahrung umfasst Datenanalyse und Prozessautomatisierung bei Mercedes-Benz, digitale Geschäftssysteme und UAT sowie Finance und Controlling.
 
-Im Mittelpunkt meiner Arbeit steht die Verbindung von Geschäftsprozessen mit Daten, Automatisierung und modernen digitalen Technologien.
+Mein Fokus liegt darauf, mit Daten, Automatisierung und technischen Tools komplexe Geschäftsprozesse zu vereinfachen und messbare Verbesserungen zu schaffen.
 
 ## Ausgewählte Kennzahlen
 
@@ -35,22 +34,5 @@ Im Mittelpunkt meiner Arbeit steht die Verbindung von Geschäftsprozessen mit Da
 <div class="metric-card"><div class="metric-value">8</div><div class="metric-label">Länder im CKD-Produktionsnetzwerk</div></div>
 <div class="metric-card"><div class="metric-value">10.000+</div><div class="metric-label">KPI-Datensätze pro Monat</div></div>
 <div class="metric-card"><div class="metric-value">50 %+</div><div class="metric-label">Weniger manuelle Eingaben und Offline-Prozesse</div></div>
-<div class="metric-card"><div class="metric-value">10.000+</div><div class="metric-label">Kleine Unternehmenskunden im Finanzsystem</div></div>
+<div class="metric-card"><div class="metric-value">10.000+</div><div class="metric-label">Unternehmenskunden eines digitalen Finanzsystems</div></div>
 </div>
-```
-
-## Schwerpunkte
-
-### Datenanalyse & Business Intelligence
-
-Python, SQL, Pandas und Power BI für Datenaufbereitung, KPI-Analysen und Management-Reporting.
-
-### Geschäftssysteme & Digitalisierung
-
-SAP, Finanzsysteme, Anforderungsanalyse, Prozessmodellierung und UAT zur Digitalisierung von Geschäftsprozessen.
-
-### KI & Cloud
-
-Anwendungsorientierte Projekte zu Cloud-Kostenoptimierung, KI-Infrastruktur und LLM-basierter Meetingraum-Suche.
-
-[Mehr über mich](about.qmd) · [Projektübersicht](projects.qmd)

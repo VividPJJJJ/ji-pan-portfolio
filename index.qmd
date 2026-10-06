@@ -1,7 +1,7 @@
 ---
 title: ""
 pagetitle: "Ji Pan"
-description: "Finance, controlling, data analytics, and digital technology"
+description: "Data, automation, digital systems, and technical solutions"
 toc: false
 page-layout: full
 ---
@@ -10,23 +10,22 @@ page-layout: full
 
 # Ji Pan
 
-## Finance, Data & Digital Technology
+## Data, Automation & Technical Solutions
 
-Controlling · Data Analytics · Business Systems · Process Digitalisation
+Data Analytics · Process Automation · Business Systems · QA & Technical Prototyping
 
-I combine five years of experience in finance and controlling with practical work in data analytics, business systems, and applied AI and cloud projects.
+I combine five years of business and finance experience with hands-on work in data analytics, process automation, digital systems, and technical prototyping.
 
 [View experience](experience.qmd){.btn .btn-primary .btn-lg}
 [Explore projects](projects.qmd){.btn .btn-outline-primary .btn-lg}
-[CV (PDF)](assets/cv/Ji_Pan_CV_EN.pdf){.btn .btn-outline-secondary .btn-lg target="_blank"}
 
 :::
 
 ## Professional Profile
 
-I am pursuing an **M.Sc. in Management and Digital Technology at the Technical University of Munich, Campus Heilbronn**. My experience includes supply-chain strategy and data analytics at Mercedes-Benz, alongside finance, controlling, and the implementation of digital business systems.
+I am pursuing an **M.Sc. in Management and Digital Technology at the Technical University of Munich, Campus Heilbronn**. My experience spans data analytics and process automation at Mercedes-Benz, digital business systems and UAT, as well as finance and controlling.
 
-My focus is connecting business processes with data, automation, and modern digital technologies.
+My focus is using data, automation, and technical tools to simplify complex business processes and create measurable improvements.
 
 ## Selected Impact
 
@@ -35,22 +34,5 @@ My focus is connecting business processes with data, automation, and modern digi
 <div class="metric-card"><div class="metric-value">8</div><div class="metric-label">Countries in the CKD production network</div></div>
 <div class="metric-card"><div class="metric-value">10,000+</div><div class="metric-label">KPI records analysed per month</div></div>
 <div class="metric-card"><div class="metric-value">50%+</div><div class="metric-label">Reduction in manual entry and offline processes</div></div>
-<div class="metric-card"><div class="metric-value">10,000+</div><div class="metric-label">Small-business clients supported by the financial system</div></div>
+<div class="metric-card"><div class="metric-value">10,000+</div><div class="metric-label">Business clients supported by a digital finance system</div></div>
 </div>
-```
-
-## Areas of Focus
-
-### Data Analytics & Business Intelligence
-
-Python, SQL, Pandas, and Power BI for data preparation, KPI analysis, and management reporting.
-
-### Business Systems & Digitalisation
-
-SAP, financial systems, requirements analysis, process modelling, and UAT for digital business processes.
-
-### AI & Cloud
-
-Applied projects in cloud cost optimisation, AI infrastructure, and LLM-based meeting-room search.
-
-[More about me](about.qmd) · [Explore my projects](projects.qmd)
